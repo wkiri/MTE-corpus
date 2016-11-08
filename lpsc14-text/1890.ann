@@ -1,0 +1,100 @@
+T1	Element 2362 2364	Mg
+T2	Element 2557 2559	Ca
+T3	Element 4308 4310	Mg
+T4	Element 4864 4866	Mg
+T5	Element 6399 6401	Mg
+T6	Element 7068 7070	Na
+T7	Element 7178 7180	Na
+T8	Target 745 753	Sheepbed
+T9	Target 954 964	John Klein
+T10	Target 969 979	Cumberland
+T11	Target 1384 1394	John Klein
+T12	Target 1399 1409	Cumberland
+T13	Target 1640 1650	John Klein
+T14	Target 1710 1720	Cumberland
+T15	Target 2230 2240	John Klein
+T16	Target 2245 2255	Cumberland
+T17	Target 2676 2686	John Klein
+T18	Target 2727 2737	Cumberland
+T19	Target 5386 5396	John Klein
+T20	Target 5401 5411	Cumberland
+T21	Target 5558 5568	John Klein
+T22	Target 5799 5807	Sheepbed
+T23	Target 6088 6098	Cumberland
+T24	Target 6136 6146	John Klein
+T25	Target 6151 6161	Cumberland
+T26	Target 6219 6227	Sheepbed
+T27	Target 6450 6460	Cumberland
+T28	Target 6627 6637	Cumberland
+T29	Target 6830 6840	John Klein
+T30	Target 6845 6855	Cumberland
+T31	Target 6960 6970	Cumberland
+T32	Target 7117 7127	John Klein
+T33	Target 7157 7167	John Klein
+T34	Target 7295 7305	Cumberland
+T35	Target 7345 7353	Sheepbed
+T36	Target 7424 7434	John Klein
+T37	Target 7549 7559	John Klein
+T38	Target 7564 7574	Cumberland
+T39	Target 8217 8227	Cumberland
+T40	Target 8232 8242	John Klein
+T41	Target 8332 8342	Cumberland
+T42	Target 8347 8357	John Klein
+T43	Mineral 2472 2487	montmorillonite
+T44	Mineral 2489 2499	nontronite
+T45	Mineral 2505 2513	saponite
+T46	Mineral 3661 3676	montmorillonite
+T47	Mineral 5742 5750	Saponite
+T48	Mineral 5851 5865	Mg-Fe-saponite
+T49	Mineral 5904 5915	griffithite
+T50	Mineral 6019 6030	vermiculite
+T51	Mineral 6166 6177	vermiculite
+T52	Mineral 6191 6199	smectite
+T53	Mineral 6307 6315	chlorite
+T54	Mineral 8605 8615	nontronite
+T55	Mineral 910 925	phyllosilicates
+T56	Mineral 1068 1083	phyllosilicates
+T57	Mineral 1207 1222	phyllosilicates
+T58	Mineral 1324 1339	phyllosilicates
+T59	Mineral 1365 1380	phyllosilicates
+T60	Mineral 1547 1562	phyllosilicates
+T61	Mineral 1622 1636	phyllosilicate
+T62	Mineral 1692 1706	phyllosilicate
+T63	Mineral 2067 2081	phyllosilicate
+T64	Mineral 2303 2317	phyllosilicate
+T65	Mineral 2434 2449	phyllosilicates
+T66	Mineral 2658 2672	phyllosilicate
+T67	Mineral 2709 2723	phyllosilicate
+T68	Mineral 3048 3063	phyllosilicates
+T69	Mineral 3400 3415	phyllosilicates
+T70	Mineral 3582 3597	phyllosilicates
+T71	Mineral 3690 3704	phyllosilicate
+T72	Mineral 3804 3819	phyllosilicates
+T73	Mineral 3905 3920	phyllosilicates
+T74	Mineral 3982 3997	phyllosilicates
+T75	Mineral 4037 4051	phyllosilicate
+T76	Mineral 4134 4149	phyllosilicates
+T77	Mineral 4235 4250	phyllosilicates
+T78	Mineral 4518 4533	phyllosilicates
+T79	Mineral 4773 4788	phyllosilicates
+T80	Mineral 4828 4843	phyllosilicates
+T81	Mineral 4885 4900	phyllosilicates
+T82	Mineral 4958 4973	phyllosilicates
+T83	Mineral 4999 5014	phyllosilicates
+T84	Mineral 5367 5382	phyllosilicates
+T85	Mineral 5498 5512	phyllosilicate
+T86	Mineral 5777 5791	phyllosilicate
+T87	Mineral 5962 5977	phyllosilicates
+T88	Mineral 6371 6378	olivine
+T89	Mineral 6432 6446	phyllosilicate
+T90	Mineral 6575 6590	phyllosilicates
+T91	Mineral 6801 6815	phyllosilicate
+T92	Mineral 6942 6956	phyllosilicate
+T93	Mineral 7099 7113	phyllosilicate
+T94	Mineral 7139 7153	phyllosilicate
+T95	Mineral 7277 7291	phyllosilicate
+T96	Mineral 7530 7545	phyllosilicates
+T97	Mineral 8127 8142	phyllosilicates
+T98	Mineral 8198 8213	phyllosilicates
+T99	Mineral 8364 8378	phyllosilicate
+T100	Mineral 8480 8495	phyllosilicates

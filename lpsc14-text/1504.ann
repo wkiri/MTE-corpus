@@ -1,0 +1,58 @@
+T1	Element 324 325	U
+T2	Element 1259 1261	Cr
+T3	Element 1263 1265	Ni
+T4	Element 1267 1269	Zn
+T5	Element 1271 1273	Br
+T6	Element 1275 1277	Ge
+T7	Element 1645 1646	S
+T8	Element 1696 1697	S
+T9	Element 3747 3749	Na
+T10	Element 3751 3752	K
+T11	Element 3758 3760	Al
+T12	Element 4367 4369	Zn
+T13	Element 5199 5201	Fe
+T14	Element 5288 5290	Fe
+T15	Element 5946 5948	Ni
+T16	Element 6362 6364	Ni
+T17	Element 6633 6635	Ca
+T18	Element 6640 6641	S
+T19	Element 6841 6842	S
+T20	Element 7637 7638	K
+T21	Element 7640 7642	Cr
+T22	Element 7644 7646	Ni
+T23	Element 7648 7650	Zn
+T24	Element 7770 7771	K
+T25	Element 8042 8044	Zn
+T26	Target 3603 3607	Jake
+T27	Target 3619 3623	Jake
+T28	Target 3684 3688	Jake
+T29	Target 3962 3966	Jake
+T30	Target 4083 4091	Bathurst
+T31	Target 4196 4207	Pine_Plains
+T32	Target 4612 4621	Rocknest3
+T33	Target 4663 4672	Rocknest3
+T34	Target 4695 4703	Rocknest
+T35	Target 4869 4873	Jake
+T36	Target 4880 4888	Bathurst
+T37	Target 4958 4962	Jake
+T38	Target 5108 5116	Rocknest
+T39	Target 5371 5380	Rocknest3
+T40	Target 5397 5408	Bell Island
+T41	Target 5420 5431	Bell Island
+T42	Target 5457 5468	Bell Island
+T43	Target 5595 5606	Snake River
+T44	Target 6114 6124	John Klein
+T45	Target 6167 6175	Sheepbed
+T46	Target 6485 6490	Mavor
+T47	Target 6507 6517	John Klein
+T48	Target 6535 6543	Sheepbed
+T49	Target 6696 6706	John Klein
+T50	Target 6783 6788	Mavor
+T51	Target 7047 7051	Maya
+T52	Target 7130 7140	John Klein
+T53	Target 7166 7170	Jake
+T54	Target 7361 7365	Jake
+T55	Target 7369 7377	Bathurst
+T56	Target 7383 7393	John Klein
+T57	Mineral 3854 3863	mugearite
+T58	Mineral 6764 6773	bassanite
