@@ -1,0 +1,59 @@
+T1	Element 4770 4772	Ca
+T2	Element 4774 4776	Al
+T3	Element 4902 4904	Si
+T4	Element 4996 4997	K
+T5	Element 4999 5001	Si
+T6	Element 5003 5005	Na
+T7	Element 5010 5012	Ba
+T8	Element 5039 5041	Ba
+T9	Element 5160 5162	Ti
+T10	Element 5164 5166	Fe
+T11	Element 5168 5170	Mg
+T12	Element 5269 5270	K
+T13	Target 1748 1756	Blanchet
+T14	Target 1758 1763	Stark
+T15	Target 1768 1777	Thor Lake
+T16	Target 4478 4486	Harrison
+T17	Target 4547 4554	Clinton
+T18	Target 4580 4588	Blanchet
+T19	Target 5611 5618	Clinton
+T20	Target 5871 5878	Becraft
+T21	Target 6093 6101	Harrison
+T22	Target 9980 9988	Blanchet
+T23	Target 9989 9996	Clinton
+T24	Target 9997 10007	Robin Hood
+T25	Target 10009 10014	Stark
+T26	Target 10015 10022	Sparkle
+T27	Target 10024 10029	Stock
+T28	Target 10031 10041	Chakonipau
+T29	Target 10043 10049	Noriss
+T30	Target 10043 10051	Noriss 2
+T31	Target 10053 10058	Falla
+T32	Target 10067 10077	Bird River
+T33	Target 10078 10085	Horlick
+T34	Target 10086 10093	Becraft
+T35	Target 10136 10140	Ross
+T36	Target 10142 10147	Bindi
+T37	Target 10148 10157	Wilkinson
+T38	Target 10158 10164	Angelo
+T39	Target 10165 10173	Dougalls
+T40	Target 10174 10179	Albee
+T41	Target 10180 10184	Nita
+T42	Mineral 2871 2881	macusanite
+T43	Mineral 5672 5689	oligoclase-albite
+T44	Mineral 5935 5945	macusanite
+T45	Mineral 6529 6539	macusanite
+T46	Mineral 7639 7647	basanite
+T47	Mineral 8794 8805	anorthosite
+T48	Mineral 8809 8816	granite
+T49	Mineral 9909 9917	andesite
+T50	Mineral 9941 9961	Diorite-Granodiorite
+T51	Mineral 4864 4875	plagioclase
+T52	Mineral 4864 4884	plagioclase feldspar
+T53	Mineral 4876 4884	feldspar
+T54	Mineral 5392 5398	quartz
+T55	Mineral 5400 5411	plagioclase
+T56	Mineral 5428 5437	nepheline
+T57	Mineral 5489 5496	olivine
+T58	Mineral 6164 6174	oligoclase
+T59	Mineral 6729 6735	quartz

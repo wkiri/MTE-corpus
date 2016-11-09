@@ -1,0 +1,17 @@
+T1	Element 24 30	Carbon
+T2	Element 32 40	Hydrogen
+T3	Element 46 52	Sulfur
+T4	Element 508 514	carbon
+T5	Element 516 522	sulfur
+T6	Element 800 806	sulfur
+T7	Element 904 910	sulfur
+T8	Element 915 921	carbon
+T9	Element 3286 3292	carbon
+T10	Element 3317 3323	oxygen
+T11	Element 3369 3375	carbon
+T12	Element 3927 3935	aluminum
+T13	Element 3985 3993	hydrogen
+T14	Mineral 958 978	meteorites.Meteorite
+T15	Mineral 1981 1989	ureilite
+T16	Mineral 3865 3874	chondrite
+T17	Mineral 5232 5241	chondrite

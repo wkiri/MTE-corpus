@@ -1,0 +1,57 @@
+T1	Element 1085 1086	F
+T2	Element 1088 1090	Cl
+T3	Element 1092 1094	Li
+T4	Element 1096 1098	Sr
+T5	Element 1100 1102	Ba
+T6	Element 1109 1111	Rb
+T7	Element 1149 1157	fluorine
+T8	Element 3729 3737	Fluorine
+T9	Element 3790 3798	fluorine
+T10	Element 3898 3906	fluorine
+T11	Element 3947 3955	fluorine
+T12	Element 4215 4223	fluorine
+T13	Element 4292 4300	fluorine
+T14	Element 4495 4503	fluorine
+T15	Element 4641 4649	Fluorine
+T16	Element 4743 4751	fluorine
+T17	Element 4866 4874	fluorine
+T18	Element 4948 4956	fluorine
+T19	Element 5019 5027	fluorine
+T20	Element 5052 5059	calcium
+T21	Element 5233 5241	fluorine
+T22	Element 5397 5398	F
+T23	Element 5460 5461	F
+T24	Element 5489 5490	F
+T25	Element 5519 5521	Ca
+T26	Element 5626 5628	Si
+T27	Element 5630 5632	Mg
+T28	Element 5634 5636	Al
+T29	Element 5925 5932	calcium
+T30	Element 6045 6052	calcium
+T31	Element 6252 6253	F
+T32	Element 6295 6296	F
+T33	Element 6606 6614	fluorine
+T34	Element 6922 6930	fluorine
+T35	Element 7039 7040	F
+T36	Element 7471 7479	fluorine
+T37	Target 1963 1974	Mount Sharp
+T38	Target 2418 2429	Pink Cliffs
+T39	Target 2431 2442	Book Cliffs
+T40	Target 3361 3364	Elk
+T41	Target 4023 4029	Alvord
+T42	Target 4669 4676	Big Sky
+T43	Target 4673 4676	Sky
+T44	Target 4789 4795	Alvord
+T45	Target 5140 5146	Alvord
+T46	Target 5527 5534	Big Sky
+T47	Target 5531 5534	Sky
+T48	Target 5565 5570	Heath
+T49	Mineral 5104 5111	apatite
+T50	Mineral 5157 5165	fluorite
+T51	Mineral 5366 5374	fluorite
+T52	Mineral 6337 6345	Fluorite
+T53	Mineral 6451 6459	fluorite
+T54	Mineral 6765 6773	fluorite
+T55	Mineral 6945 6953	fluorite
+T56	Mineral 5663 5677	phyllosilicate
+T57	Mineral 7369 7384	phyllosilicates

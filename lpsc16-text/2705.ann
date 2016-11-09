@@ -1,0 +1,34 @@
+T1	Element 864 866	Zn
+T2	Element 1201 1203	Zn
+T3	Element 1457 1461	lead
+T4	Element 2139 2143	iron
+T5	Element 2200 2202	Fe
+T6	Element 2315 2317	Cl
+T7	Element 2557 2559	Cl
+T8	Element 2578 2580	Fe
+T9	Element 3704 3706	Ni
+T10	Element 3719 3721	Zn
+T11	Element 3754 3756	Cr
+T12	Element 4508 4509	S
+T13	Element 6056 6058	Fe
+T14	Element 6345 6347	Ni
+T15	Element 6395 6397	Ni
+T16	Element 6403 6405	Zn
+T17	Element 6527 6529	Ni
+T18	Element 6570 6572	Ni
+T19	Element 6916 6918	Ni
+T20	Element 7050 7052	Ni
+T21	Target 797 805	Bathurst
+T22	Target 3023 3031	Bathurst
+T23	Target 3236 3244	Bathurst
+T24	Target 3590 3600	John Klein
+T25	Target 4673 4683	John Klein
+T26	Target 5370 5374	Jake
+T27	Target 5552 5560	Bathurst
+T28	Target 6749 6759	John Klein
+T29	Target 7935 7941	Agency
+T30	Target 8049 8053	King
+T31	Mineral 4515 4525	Pyrrhotite
+T32	Mineral 4661 4667	pyrite
+T33	Mineral 6603 6620	nickelhexahydrite
+T34	Mineral 5207 5223	igneous minerals

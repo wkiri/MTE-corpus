@@ -1,0 +1,76 @@
+T1	Element 2595 2596	P
+T2	Element 2598 2599	S
+T3	Element 2601 2603	Cl
+T4	Element 2605 2607	Mn
+T5	Element 2609 2611	Ni
+T6	Element 2613 2615	Zn
+T7	Element 2617 2619	Cr
+T8	Element 2621 2623	Br
+T9	Element 2625 2627	Ge
+T10	Element 2629 2631	Cu
+T11	Element 2633 2635	Se
+T12	Element 2641 2643	Pb
+T13	Element 2645 2647	Ga
+T14	Element 2649 2651	Rb
+T15	Element 2653 2655	Sr
+T16	Element 2660 2661	Y
+T17	Element 3211 3213	Fe
+T18	Element 3478 3480	Ni
+T19	Element 3681 3683	Zn
+T20	Element 4347 4349	Ni
+T21	Element 4354 4356	Cl
+T22	Element 4740 4742	Ni
+T23	Element 4980 4982	Zn
+T24	Element 5090 5092	Cl
+T25	Element 5116 5118	Ni
+T26	Element 5427 5429	Ni
+T27	Element 5434 5436	Zn
+T28	Element 5584 5586	Fm
+T29	Element 5806 5808	Ni
+T30	Element 5813 5815	Zn
+T31	Element 6083 6085	Ni
+T32	Element 6090 6092	Zn
+T33	Element 6417 6419	Ni
+T34	Element 6424 6426	Zn
+T35	Element 7365 7366	K
+T36	Element 7368 7370	Mg
+T37	Element 7375 7377	Fe
+T38	Element 7408 7410	Na
+T39	Element 7412 7413	K
+T40	Element 7415 7417	Si
+T41	Element 7422 7424	Al
+T42	Element 7906 7908	Ni
+T43	Element 8067 8069	Ni
+T44	Element 8098 8100	Mg
+T45	Element 8105 8106	S
+T46	Element 8216 8218	Si
+T47	Element 8397 8399	Si
+T48	Element 8434 8436	Si
+T49	Target 630 641	Mount Sharp
+T50	Target 857 863	Darwin
+T51	Target 3275 3279	Jake
+T52	Target 3868 3876	Rocknest
+T53	Target 4011 4021	John Klein
+T54	Target 4075 4079	Jake
+T55	Target 4522 4533	Bell Island
+T56	Target 4589 4599	John Klein
+T57	Target 4645 4655	John Klein
+T58	Target 4848 4858	John Klein
+T59	Target 4874 4881	Bastion
+T60	Target 5173 5183	John Klein
+T61	Target 5197 5201	Jake
+T62	Target 5679 5695	Confidence Hills
+T63	Target 5995 6005	John Klein
+T64	Target 7425 7429	Jake
+T65	Target 8011 8027	Confidence Hills
+T66	Target 8293 8304	Mount Sharp
+T67	Target 8307 8323	Confidence Hills
+T68	Target 8325 8333	Buckskin
+T69	Target 8338 8347	Greenhorn
+T70	Target 9163 9169	Agency
+T71	Mineral 3841 3849	tephrite
+T72	Mineral 3850 3858	basanite
+T73	Mineral 4158 4172	trachyandesite
+T74	Mineral 5539 5547	andesite
+T75	Mineral 8177 8185	sulfates
+T76	Mineral 8408 8415	sulfate

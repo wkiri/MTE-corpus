@@ -1,0 +1,16 @@
+T1	Element 3000 3001	S
+T2	Element 3003 3005	Ni
+T3	Element 3007 3009	Cr
+T4	Element 3011 3013	Mn
+T5	Element 3015 3017	Co
+T6	Element 3023 3025	Zn
+T7	Element 3195 3203	aluminum
+T8	Element 4007 4009	Al
+T9	Element 4030 4032	Si
+T10	Element 5819 5821	Al
+T11	Element 5826 5828	Si
+T12	Element 7501 7502	B
+T13	Element 7830 7831	B
+T14	Element 7928 7929	B
+T15	Target 2604 2612	Marshall
+T16	Target 2782 2789	Thomson

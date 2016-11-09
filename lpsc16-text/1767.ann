@@ -1,0 +1,48 @@
+T1	Element 1527 1529	Si
+T2	Element 1531 1533	Ti
+T3	Element 1535 1537	Al
+T4	Element 1539 1541	Fe
+T5	Element 1543 1545	Mg
+T6	Element 1547 1549	Ca
+T7	Element 1551 1553	Na
+T8	Element 1559 1560	K
+T9	Element 1673 1674	S
+T10	Element 1888 1889	S
+T11	Element 2056 2062	sulfur
+T12	Element 2076 2082	sulfur
+T13	Element 2137 2139	Cl
+T14	Element 4207 4209	Ca
+T15	Element 4274 4276	Si
+T16	Element 4278 4280	Al
+T17	Element 4286 4287	K
+T18	Element 4299 4301	Mg
+T19	Element 5781 5785	iron
+T20	Element 5869 5871	Mg
+T21	Element 6386 6387	B
+T22	Element 6479 6480	B
+T23	Element 6644 6645	S
+T24	Target 1212 1223	Mount Sharp
+T25	Target 3996 4012	Confidence Hills
+T26	Target 4158 4172	Telegraph Peak
+T27	Target 4369 4385	Confidence Hills
+T28	Target 4568 4584	Confidence Hills
+T29	Target 4909 4923	Telegraph Peak
+T30	Target 6373 6381	Anderson
+T31	Mineral 3750 3756	augite
+T32	Mineral 3763 3771	hematite
+T33	Mineral 3810 3819	pigeonite
+T34	Mineral 3826 3835	magnetite
+T35	Mineral 3842 3852	forsterite
+T36	Mineral 3859 3871	cristobalite
+T37	Mineral 3878 3886	ilmenite
+T38	Mineral 3893 3901	jarosite
+T39	Mineral 4535 4543	jarosite
+T40	Mineral 5366 5374	jarosite
+T41	Mineral 5386 5394	hematite
+T42	Mineral 3734 3745	plagioclase
+T43	Mineral 3790 3803	orthopyroxene
+T44	Mineral 3908 3914	quartz
+T45	Mineral 3920 3934	phyllosilicate
+T46	Mineral 5750 5758	sulfates
+T47	Mineral 5786 5794	sulfates
+T48	Mineral 6011 6019	sulfates

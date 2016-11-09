@@ -1,0 +1,57 @@
+T1	Element 3089 3091	Si
+T2	Element 3093 3095	Ni
+T3	Element 3100 3102	Zn
+T4	Element 3111 3113	Mg
+T5	Element 3115 3117	Ca
+T6	Element 3294 3296	Cl
+T7	Element 3602 3604	Al
+T8	Element 3621 3623	Fe
+T9	Element 3771 3773	Br
+T10	Element 3804 3806	Mg
+T11	Element 4074 4076	Mg
+T12	Element 4078 4079	S
+T13	Element 4084 4086	Ni
+T14	Element 4117 4119	Cl
+T15	Element 4124 4126	Br
+T16	Element 4169 4171	Ni
+T17	Element 4267 4269	Zn
+T18	Element 4558 4560	Mg
+T19	Element 4562 4563	S
+T20	Element 4565 4567	Ni
+T21	Element 4572 4574	Cl
+T22	Element 4625 4627	Mg
+T23	Element 4632 4633	S
+T24	Element 5382 5384	Ca
+T25	Element 5620 5622	Ni
+T26	Element 5624 5626	Cl
+T27	Element 5631 5633	Br
+T28	Element 5680 5682	Mg
+T29	Element 5684 5686	Ni
+T30	Element 5691 5692	S
+T31	Element 5701 5702	S
+T32	Element 6195 6197	Ni
+T33	Element 6203 6205	Mg
+T34	Element 6210 6211	S
+T35	Element 6254 6256	Ni
+T36	Element 6326 6328	Ni
+T37	Element 6369 6371	Ni
+T38	Element 7038 7040	Cl
+T39	Element 7057 7059	Ni
+T40	Element 7068 7070	Zn
+T41	Element 7080 7082	Br
+T42	Element 7354 7356	Cl
+T43	Element 7373 7375	Ni
+T44	Element 7385 7387	Zn
+T45	Element 7397 7399	Br
+T46	Target 505 516	Mount Sharp
+T47	Target 654 665	Mount Sharp
+T48	Target 1092 1103	Mount Sharp
+T49	Target 1852 1863	Mount Sharp
+T50	Target 2418 2430	Afton Canyon
+T51	Target 2565 2577	Afton Canyon
+T52	Target 2600 2608	Morrison
+T53	Target 3561 3572	Pink Cliffs
+T54	Target 3577 3588	Book Cliffs
+T55	Target 3739 3750	Book Cliffs
+T56	Target 6701 6707	Agency
+T57	Mineral 4993 5001	andesite

@@ -1,0 +1,44 @@
+T1	Element 3467 3476	potassium
+T2	Element 5006 5008	Fe
+T3	Element 5013 5015	Mg
+T4	Element 5054 5058	iron
+T5	Element 6321 6328	calcium
+T6	Element 6333 6342	magnesium
+T7	Element 6367 6375	fluorine
+T8	Element 6377 6384	Calcium
+T9	Element 6393 6400	Calcium
+T10	Element 6644 6646	Mg
+T11	Element 6656 6658	Mg
+T12	Element 6814 6815	S
+T13	Element 6817 6818	N
+T14	Element 6820 6822	Cl
+T15	Element 6828 6830	Br
+T16	Element 7064 7066	Mg
+T17	Element 7644 7645	B
+T18	Element 7724 7725	B
+T19	Target 3290 3298	Rocknest
+T20	Target 3425 3431	Darwin
+T21	Target 4871 4877	Darwin
+T22	Target 4996 5004	Rocknest
+T23	Target 5646 5657	Book Cliffs
+T24	Target 5678 5691	Goblin Valley
+T25	Target 5700 5711	Pink Cliffs
+T26	Target 5736 5741	Delta
+T27	Target 5753 5769	San Rafael Swell
+T28	Target 5793 5806	Castle Valley
+T29	Target 5808 5817	Ibex Pass
+T30	Target 5829 5840	Saddle Peak
+T31	Target 5964 5975	Pink Cliffs
+T32	Target 6002 6013	Book Cliffs
+T33	Target 6978 6986	Rocknest
+T34	Target 7741 7749	Anderson
+T35	Mineral 3329 3340	plagioclase
+T36	Mineral 4956 4967	plagioclase
+T37	Mineral 5091 5098	olivine
+T38	Mineral 6072 6083	plagioclase
+T39	Mineral 6072 6092	plagioclase feldspar
+T40	Mineral 6084 6092	feldspar
+T41	Mineral 6343 6350	sulfate
+T42	Mineral 6385 6392	Sulfate
+T43	Mineral 6401 6408	sulfate
+T44	Mineral 7032 7039	olivine

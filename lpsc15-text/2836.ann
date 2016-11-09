@@ -1,0 +1,33 @@
+T1	Element 4300 4302	Ni
+T2	Element 4337 4339	Fe
+T3	Element 4551 4553	Ni
+T4	Element 5332 5334	Fm
+T5	Target 665 675	Hell Creek
+T6	Target 1795 1802	Belcher
+T7	Target 2660 2670	Hell Creek
+T8	Target 2696 2706	Hell Creek
+T9	Target 4497 4507	Hell Creek
+T10	Target 5321 5331	Hell Creek
+T11	Target 5441 5451	Hell Creek
+T12	Target 5492 5502	Hell Creek
+T13	Target 5577 5584	Belcher
+T14	Target 5627 5634	Belcher
+T15	Target 5840 5844	Amer
+T16	Target 5905 5909	Amer
+T17	Target 5961 5965	Amer
+T18	Mineral 1428 1434	ignite
+T19	Mineral 1686 1692	ignite
+T20	Mineral 2151 2160	esseneite
+T21	Mineral 2423 2432	esseneite
+T22	Mineral 3040 3049	esseneite
+T23	Mineral 3487 3496	esseneite
+T24	Mineral 3740 3749	magnetite
+T25	Mineral 3799 3808	esseneite
+T26	Mineral 4663 4672	esseneite
+T27	Mineral 4971 4980	esseneite
+T28	Mineral 5229 5238	esseneite
+T29	Mineral 5301 5310	esseneite
+T30	Mineral 5379 5388	esseneite
+T31	Mineral 5420 5435	Titanomagnetite
+T32	Mineral 5471 5486	Titanomagnetite
+T33	Mineral 2133 2141	pyroxene
