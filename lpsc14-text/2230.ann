@@ -2,9 +2,9 @@ T1	Element 777 779	Cl
 T2	Element 781 783	Br
 T3	Element 785 786	I
 T4	Element 1013 1017	lead
-T5	Element 1537 1539	Ga
-T6	Element 2248 2250	Ga
-T7	Element 2280 2282	Ga
-T8	Element 2680 2681	U
+T5	Element 1535 1537	Ga
+T6	Element 2246 2248	Ga
+T7	Element 2278 2280	Ga
+T8	Element 2650 2651	U
 T9	Target 63 67	Ross
-T10	Target 8836 8844	Harrison
+T10	Target 8804 8812	Harrison

@@ -2,8 +2,8 @@ T1	Element 560 561	K
 T2	Element 1301 1302	K
 T3	Element 1538 1539	K
 T4	Element 5376 5377	K
-T5	Element 5728 5729	K
-T6	Element 6350 6351	K
+T5	Element 5724 5725	K
+T6	Element 6346 6347	K
 T7	Mineral 1080 1087	olivine
 T8	Mineral 1092 1100	pyroxene
 T9	Mineral 1172 1183	plagioclase
@@ -22,7 +22,7 @@ T21	Mineral 4678 4685	olivine
 T22	Mineral 4723 4730	olivine
 T23	Mineral 4783 4790	olivine
 T24	Mineral 4838 4846	pyroxene
-T25	Mineral 7956 7964	Pyroxene
-T26	Mineral 8600 8608	pyroxene
-T27	Mineral 8807 8815	pyroxene
-T28	Mineral 8824 8831	olivine
+T25	Mineral 7948 7956	Pyroxene
+T26	Mineral 8590 8598	pyroxene
+T27	Mineral 8797 8805	pyroxene
+T28	Mineral 8814 8821	olivine

@@ -1,15 +1,11 @@
-T1	Element 7917 7918	S
+T1	Element 7899 7900	S
 T2	Target 1818 1826	Mesquite
-T3	Target 3485 3493	Mesquite
-T4	Target 6197 6205	Mesquite
-T5	Target 6229 6237	Mesquite
-T6	Target 7862 7873	Deep Spring
-T7	Target 8159 8163	Bull
-T8	Mineral 1818 1826	Mesquite
-T9	Mineral 3485 3493	Mesquite
-T10	Mineral 4204 4212	smectite
-T11	Mineral 6163 6171	Mesquite
-T12	Mineral 6195 6203	Mesquite
-T13	Mineral 6967 6975	smectite
-T14	Mineral 4315 4323	sulfates
-T15	Mineral 7093 7100	sulfate
+T3	Target 3477 3485	Mesquite
+T4	Target 6179 6187	Mesquite
+T5	Target 6211 6219	Mesquite
+T6	Target 7844 7855	Deep Spring
+T7	Target 8141 8145	Bull
+T8	Mineral 4190 4198	smectite
+T9	Mineral 7000 7008	smectite
+T10	Mineral 4301 4309	sulfates
+T11	Mineral 7075 7082	sulfate

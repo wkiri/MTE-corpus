@@ -1,70 +1,70 @@
-T1	Element 2736 2738	Si
-T2	Element 2740 2742	Ti
-T3	Element 2744 2746	Al
-T4	Element 2748 2750	Fe
-T5	Element 2752 2754	Mg
-T6	Element 2756 2758	Ca
-T7	Element 2760 2762	Na
-T8	Element 2768 2769	K
-T9	Element 3208 3209	S
-T10	Element 3423 3424	S
-T11	Element 3552 3554	Cl
-T12	Element 4047 4049	Ca
-T13	Element 4098 4100	Ca
-T14	Element 4331 4333	Ca
-T15	Element 4899 4901	Ca
-T16	Element 4915 4917	Ca
-T17	Element 5999 6003	iron
-T18	Element 6505 6509	iron
-T19	Element 6642 6646	iron
-T20	Element 6760 6762	Ca
-T21	Element 7061 7063	Ca
-T22	Element 7256 7258	Ca
-T23	Element 7418 7422	iron
-T24	Element 7920 7922	Ca
-T25	Element 7993 7995	Ca
-T26	Element 8111 8113	Ca
-T27	Element 8510 8511	B
-T28	Element 8636 8640	iron
-T29	Target 899 909	John Klein
-T30	Target 1091 1101	Cumberland
-T31	Target 1548 1558	John Klein
-T32	Target 1698 1708	John Klein
-T33	Target 1863 1873	Cumberland
-T34	Target 2007 2015	Sheepbed
-T35	Target 2061 2069	Sheepbed
-T36	Target 3612 3622	John Klein
-T37	Target 3807 3817	Cumberland
-T38	Target 4142 4152	John Klein
-T39	Target 4174 4184	Cumberland
-T40	Target 4478 4488	John Klein
-T41	Target 4548 4558	Cumberland
-T42	Target 5601 5611	John Klein
-T43	Target 5644 5654	John Klein
-T44	Target 5672 5682	Cumberland
-T45	Target 6347 6357	John Klein
-T46	Target 6605 6615	Cumberland
-T47	Target 6981 6991	John Klein
-T48	Target 7032 7042	John Klein
-T49	Target 7120 7130	John Klein
-T50	Target 7210 7220	Cumberland
-T51	Target 7878 7888	John Klein
-T52	Target 7966 7976	Cumberland
-T53	Target 8127 8137	John Klein
-T54	Target 8154 8164	Cumberland
-T55	Target 8497 8505	Anderson
-T56	Target 8688 8698	John Klein
-T57	Target 8739 8749	Cumberland
-T58	Target 8880 8890	John Klein
-T59	Target 8931 8941	Cumberland
-T60	Mineral 2447 2460	Fe-forsterite
-T61	Mineral 2462 2468	augite
-T62	Mineral 2470 2479	pigeonite
-T63	Mineral 2496 2505	magnetite
-T64	Mineral 2507 2517	pyrrhotite
-T65	Mineral 2519 2529	akaganeite
-T66	Mineral 2548 2557	anhydrite
-T67	Mineral 2637 2645	smectite
-T68	Mineral 2412 2423	plagioclase
-T69	Mineral 2436 2444	sanidine
-T70	Mineral 2481 2494	orthopyroxene
+T1	Element 2734 2736	Si
+T2	Element 2738 2740	Ti
+T3	Element 2742 2744	Al
+T4	Element 2746 2748	Fe
+T5	Element 2750 2752	Mg
+T6	Element 2754 2756	Ca
+T7	Element 2758 2760	Na
+T8	Element 2766 2767	K
+T9	Element 3206 3207	S
+T10	Element 3421 3422	S
+T11	Element 3550 3552	Cl
+T12	Element 4045 4047	Ca
+T13	Element 4096 4098	Ca
+T14	Element 4329 4331	Ca
+T15	Element 4897 4899	Ca
+T16	Element 4913 4915	Ca
+T17	Element 5997 6001	iron
+T18	Element 6503 6507	iron
+T19	Element 6640 6644	iron
+T20	Element 6758 6760	Ca
+T21	Element 7059 7061	Ca
+T22	Element 7254 7256	Ca
+T23	Element 7416 7420	iron
+T24	Element 7918 7920	Ca
+T25	Element 7990 7992	Ca
+T26	Element 8107 8109	Ca
+T27	Element 8506 8507	B
+T28	Element 8632 8636	iron
+T29	Target 898 908	John Klein
+T30	Target 1090 1100	Cumberland
+T31	Target 1546 1556	John Klein
+T32	Target 1696 1706	John Klein
+T33	Target 1861 1871	Cumberland
+T34	Target 2005 2013	Sheepbed
+T35	Target 2059 2067	Sheepbed
+T36	Target 3610 3620	John Klein
+T37	Target 3805 3815	Cumberland
+T38	Target 4140 4150	John Klein
+T39	Target 4172 4182	Cumberland
+T40	Target 4476 4486	John Klein
+T41	Target 4546 4556	Cumberland
+T42	Target 5599 5609	John Klein
+T43	Target 5642 5652	John Klein
+T44	Target 5670 5680	Cumberland
+T45	Target 6345 6355	John Klein
+T46	Target 6603 6613	Cumberland
+T47	Target 6979 6989	John Klein
+T48	Target 7030 7040	John Klein
+T49	Target 7118 7128	John Klein
+T50	Target 7208 7218	Cumberland
+T51	Target 7876 7886	John Klein
+T52	Target 7963 7973	Cumberland
+T53	Target 8123 8133	John Klein
+T54	Target 8150 8160	Cumberland
+T55	Target 8493 8501	Anderson
+T56	Target 8684 8694	John Klein
+T57	Target 8735 8745	Cumberland
+T58	Target 8876 8886	John Klein
+T59	Target 8927 8937	Cumberland
+T60	Mineral 2445 2458	Fe-forsterite
+T61	Mineral 2460 2466	augite
+T62	Mineral 2468 2477	pigeonite
+T63	Mineral 2494 2503	magnetite
+T64	Mineral 2505 2515	pyrrhotite
+T65	Mineral 2517 2527	akaganeite
+T66	Mineral 2546 2555	anhydrite
+T67	Mineral 2635 2643	smectite
+T68	Mineral 2410 2421	plagioclase
+T69	Mineral 2434 2442	sanidine
+T70	Mineral 2479 2492	orthopyroxene

@@ -1,12 +1,12 @@
-T1	Element 4091 4099	hydrogen
-T2	Element 5025 5026	S
-T3	Element 5031 5033	Cl
-T4	Element 5044 5046	Si
-T5	Element 5244 5248	iron
-T6	Element 5432 5436	iron
-T7	Element 5498 5502	iron
-T8	Target 766 772	Ithaca
-T9	Target 1948 1960	Bagnold Dune
-T10	Target 4692 4704	Bagnold Dune
-T11	Mineral 3607 3614	olivine
-T12	Mineral 4747 4754	olivine
+T1	Element 4088 4096	hydrogen
+T2	Element 5022 5023	S
+T3	Element 5028 5030	Cl
+T4	Element 5041 5043	Si
+T5	Element 5239 5243	iron
+T6	Element 5427 5431	iron
+T7	Element 5493 5497	iron
+T8	Target 765 771	Ithaca
+T9	Target 1947 1959	Bagnold Dune
+T10	Target 4689 4701	Bagnold Dune
+T11	Mineral 3606 3613	olivine
+T12	Mineral 4744 4751	olivine

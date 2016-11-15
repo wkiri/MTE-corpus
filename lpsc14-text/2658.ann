@@ -1,8 +1,7 @@
 T1	Element 2496 2504	nitrogen
-T2	Element 3165 3166	K
-T3	Element 3990 3991	B
-T4	Element 6830 6831	C
-T5	Element 6872 6873	P
-T6	Element 6901 6902	F
+T2	Element 3164 3165	K
+T3	Element 3989 3990	B
+T4	Element 6818 6819	C
+T5	Element 6860 6861	P
+T6	Element 6889 6890	F
 T7	Target 254 262	Humboldt
-T8	Mineral 3371 3379	definite

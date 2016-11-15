@@ -1,7 +1,7 @@
-T1	Element 6256 6258	Ca
-T2	Element 6267 6269	Ca
-T3	Target 6125 6133	Rocknest
-T4	Target 7567 7572	Clark
+T1	Element 6249 6251	Ca
+T2	Element 6260 6262	Ca
+T3	Target 6118 6126	Rocknest
+T4	Target 7560 7565	Clark
 T5	Mineral 3731 3740	pigeonite
 T6	Mineral 3742 3748	augite
 T7	Mineral 3750 3761	labradorite
@@ -26,4 +26,4 @@ T25	Mineral 3715 3722	olivine
 T26	Mineral 3796 3803	olivine
 T27	Mineral 3892 3899	olivine
 T28	Mineral 3962 3969	olivine
-T29	Mineral 6839 6846	olivine
+T29	Mineral 6832 6839	olivine

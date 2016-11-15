@@ -1,62 +1,62 @@
-T1	Element 1020 1022	Li
-T2	Element 1024 1026	Sr
-T3	Element 1028 1030	Ba
-T4	Element 2696 2698	Mg
-T5	Element 3118 3126	aluminum
-T6	Element 3131 3139	titanium
-T7	Element 3284 3286	Al
-T8	Element 3424 3426	Al
-T9	Element 3626 3628	Al
-T10	Element 3643 3645	Ti
-T11	Element 3778 3785	lithium
-T12	Element 3853 3855	Li
-T13	Element 3891 3893	Li
-T14	Element 3934 3936	Al
-T15	Element 4027 4029	Li
-T16	Element 4488 4490	Al
-T17	Element 4492 4494	Mg
-T18	Element 4499 4500	H
-T19	Element 4517 4519	Fe
-T20	Element 4620 4622	Li
-T21	Element 4627 4629	Cr
-T22	Element 4771 4773	Mg
-T23	Element 4778 4780	Al
-T24	Element 4814 4815	H
-T25	Element 4862 4864	Li
-T26	Element 4973 4975	Li
-T27	Element 5112 5114	Ca
-T28	Element 5280 5282	Ti
-T29	Element 5474 5481	calcium
-T30	Element 5538 5540	Mg
-T31	Element 5542 5544	Ni
-T32	Element 5550 5551	S
-T33	Element 6210 6212	Mg
-T34	Element 6214 6216	Ti
-T35	Element 6218 6220	Al
-T36	Element 6357 6359	Ca
-T37	Element 6948 6950	Al
-T38	Element 6952 6954	Mg
-T39	Element 6956 6957	H
-T40	Element 6959 6961	Cr
-T41	Element 6966 6968	Li
-T42	Element 7431 7433	Mg
-T43	Target 1916 1932	Confidence Hills
-T44	Target 1988 1999	Pink Cliffs
-T45	Target 2007 2018	Book Cliffs
-T46	Target 2104 2115	San Gabriel
-T47	Target 2601 2607	Darwin
-T48	Target 3160 3171	San Gabriel
-T49	Target 3298 3309	Pink Cliffs
-T50	Target 3316 3327	Book Cliffs
-T51	Target 3556 3572	Confidence Hills
-T52	Target 3944 3955	Book Cliffs
-T53	Target 5082 5090	Vaqueros
-T54	Target 6078 6094	Confidence Hills
-T55	Target 6719 6735	Confidence Hills
-T56	Target 6757 6768	Pink Cliffs
-T57	Target 6787 6798	San Gabriel
-T58	Target 6852 6863	Pink Cliffs
-T59	Target 7045 7056	Pink Cliffs
-T60	Target 7071 7087	Confidence Hills
-T61	Mineral 5482 5489	sulfate
-T62	Mineral 6364 6371	sulfate
+T1	Element 1018 1020	Li
+T2	Element 1022 1024	Sr
+T3	Element 1026 1028	Ba
+T4	Element 2694 2696	Mg
+T5	Element 3116 3124	aluminum
+T6	Element 3129 3137	titanium
+T7	Element 3282 3284	Al
+T8	Element 3422 3424	Al
+T9	Element 3624 3626	Al
+T10	Element 3641 3643	Ti
+T11	Element 3776 3783	lithium
+T12	Element 3851 3853	Li
+T13	Element 3889 3891	Li
+T14	Element 3932 3934	Al
+T15	Element 4025 4027	Li
+T16	Element 4486 4488	Al
+T17	Element 4490 4492	Mg
+T18	Element 4497 4498	H
+T19	Element 4515 4517	Fe
+T20	Element 4618 4620	Li
+T21	Element 4625 4627	Cr
+T22	Element 4769 4771	Mg
+T23	Element 4776 4778	Al
+T24	Element 4812 4813	H
+T25	Element 4860 4862	Li
+T26	Element 4971 4973	Li
+T27	Element 5110 5112	Ca
+T28	Element 5278 5280	Ti
+T29	Element 5472 5479	calcium
+T30	Element 5536 5538	Mg
+T31	Element 5540 5542	Ni
+T32	Element 5548 5549	S
+T33	Element 6208 6210	Mg
+T34	Element 6212 6214	Ti
+T35	Element 6216 6218	Al
+T36	Element 6355 6357	Ca
+T37	Element 6946 6948	Al
+T38	Element 6950 6952	Mg
+T39	Element 6954 6955	H
+T40	Element 6957 6959	Cr
+T41	Element 6964 6966	Li
+T42	Element 7429 7431	Mg
+T43	Target 1914 1930	Confidence Hills
+T44	Target 1986 1997	Pink Cliffs
+T45	Target 2005 2016	Book Cliffs
+T46	Target 2102 2113	San Gabriel
+T47	Target 2599 2605	Darwin
+T48	Target 3158 3169	San Gabriel
+T49	Target 3296 3307	Pink Cliffs
+T50	Target 3314 3325	Book Cliffs
+T51	Target 3554 3570	Confidence Hills
+T52	Target 3942 3953	Book Cliffs
+T53	Target 5080 5088	Vaqueros
+T54	Target 6076 6092	Confidence Hills
+T55	Target 6717 6733	Confidence Hills
+T56	Target 6755 6766	Pink Cliffs
+T57	Target 6785 6796	San Gabriel
+T58	Target 6850 6861	Pink Cliffs
+T59	Target 7043 7054	Pink Cliffs
+T60	Target 7069 7085	Confidence Hills
+T61	Mineral 5480 5487	sulfate
+T62	Mineral 6362 6369	sulfate

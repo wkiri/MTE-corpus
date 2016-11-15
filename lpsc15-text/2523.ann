@@ -26,11 +26,11 @@ T25	Mineral 5323 5334	maskelynite
 T26	Mineral 5339 5349	merrillite
 T27	Mineral 5385 5396	Baddeleyite
 T28	Mineral 5407 5418	baddeleyite
-T29	Mineral 5631 5642	Baddeleyite
-T30	Mineral 5672 5680	ilmenite
-T31	Mineral 6523 6530	calcite
-T32	Mineral 6535 6541	barite
-T33	Mineral 6774 6784	merrillite
+T29	Mineral 5630 5641	Baddeleyite
+T30	Mineral 5671 5679	ilmenite
+T31	Mineral 6522 6529	calcite
+T32	Mineral 6534 6540	barite
+T33	Mineral 6773 6783	merrillite
 T34	Mineral 1063 1070	olivine
 T35	Mineral 1078 1091	clinopyroxene
 T36	Mineral 1111 1122	plagioclase
@@ -51,5 +51,5 @@ T50	Mineral 3567 3580	clinopyroxene
 T51	Mineral 3603 3614	plagioclase
 T52	Mineral 3666 3679	clinopyroxene
 T53	Mineral 3885 3896	plagioclase
-T54	Mineral 5772 5788	igneous minerals
-T55	Mineral 5974 5990	igneous minerals
+T54	Mineral 5771 5787	igneous minerals
+T55	Mineral 5973 5989	igneous minerals

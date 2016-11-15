@@ -6,29 +6,29 @@ T5	Element 2200 2202	Fe
 T6	Element 2315 2317	Cl
 T7	Element 2557 2559	Cl
 T8	Element 2578 2580	Fe
-T9	Element 3704 3706	Ni
-T10	Element 3719 3721	Zn
-T11	Element 3754 3756	Cr
-T12	Element 4508 4509	S
-T13	Element 6056 6058	Fe
-T14	Element 6345 6347	Ni
-T15	Element 6395 6397	Ni
-T16	Element 6403 6405	Zn
-T17	Element 6527 6529	Ni
-T18	Element 6570 6572	Ni
-T19	Element 6916 6918	Ni
-T20	Element 7050 7052	Ni
+T9	Element 3703 3705	Ni
+T10	Element 3718 3720	Zn
+T11	Element 3753 3755	Cr
+T12	Element 4507 4508	S
+T13	Element 6054 6056	Fe
+T14	Element 6343 6345	Ni
+T15	Element 6393 6395	Ni
+T16	Element 6401 6403	Zn
+T17	Element 6525 6527	Ni
+T18	Element 6568 6570	Ni
+T19	Element 6914 6916	Ni
+T20	Element 7048 7050	Ni
 T21	Target 797 805	Bathurst
-T22	Target 3023 3031	Bathurst
-T23	Target 3236 3244	Bathurst
-T24	Target 3590 3600	John Klein
-T25	Target 4673 4683	John Klein
-T26	Target 5370 5374	Jake
-T27	Target 5552 5560	Bathurst
-T28	Target 6749 6759	John Klein
-T29	Target 7935 7941	Agency
-T30	Target 8049 8053	King
-T31	Mineral 4515 4525	Pyrrhotite
-T32	Mineral 4661 4667	pyrite
-T33	Mineral 6603 6620	nickelhexahydrite
-T34	Mineral 5207 5223	igneous minerals
+T22	Target 3022 3030	Bathurst
+T23	Target 3235 3243	Bathurst
+T24	Target 3589 3599	John Klein
+T25	Target 4672 4682	John Klein
+T26	Target 5369 5373	Jake
+T27	Target 5551 5559	Bathurst
+T28	Target 6747 6757	John Klein
+T29	Target 7933 7939	Agency
+T30	Target 8047 8051	King
+T31	Mineral 4514 4524	Pyrrhotite
+T32	Mineral 4660 4666	pyrite
+T33	Mineral 6601 6618	nickelhexahydrite
+T34	Mineral 5206 5222	igneous minerals

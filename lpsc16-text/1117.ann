@@ -3,11 +3,11 @@ T2	Element 782 789	Mercury
 T3	Element 2011 2015	iron
 T4	Element 2105 2109	iron
 T5	Element 3264 3271	Mercury
-T6	Element 6581 6588	Mercury
-T7	Element 6662 6669	Mercury
-T8	Element 6806 6813	Mercury
-T9	Element 7313 7314	I
+T6	Element 6575 6582	Mercury
+T7	Element 6656 6663	Mercury
+T8	Element 6800 6807	Mercury
+T9	Element 7306 7307	I
 T10	Target 109 113	Ross
-T11	Target 7406 7412	Amsden
+T11	Target 7399 7405	Amsden
 T12	Mineral 2089 2095	dunite
 T13	Mineral 2190 2196	Dunite

@@ -1,60 +1,60 @@
-T1	Element 1135 1143	chlorine
-T2	Element 1148 1154	oxygen
-T3	Element 2217 2219	Cl
-T4	Element 2917 2919	Cl
-T5	Element 3010 3012	Cl
-T6	Element 3114 3116	Cl
-T7	Element 3201 3203	Cl
-T8	Element 3460 3462	Cl
-T9	Element 3533 3535	Cl
-T10	Element 3560 3562	Cl
-T11	Element 3774 3780	Oxygen
-T12	Element 4326 4328	Cl
-T13	Element 4804 4806	Cl
-T14	Element 4896 4898	Cl
-T15	Element 4942 4944	Cl
-T16	Element 5131 5133	Cl
-T17	Element 5161 5163	Cl
-T18	Element 5225 5227	Cl
-T19	Element 5460 5462	Cl
-T20	Element 5577 5579	Cl
-T21	Element 5898 5900	Cl
-T22	Element 5969 5971	Cl
-T23	Element 6021 6023	Cl
-T24	Element 6302 6304	Cl
-T25	Element 6447 6449	Cl
-T26	Element 6491 6493	Cl
-T27	Element 6640 6642	Cl
-T28	Element 6876 6878	Cl
-T29	Element 7563 7565	Cl
-T30	Element 7772 7774	Cl
-T31	Target 1751 1759	Rocknest
-T32	Target 1793 1803	John Klein
-T33	Target 1810 1820	Cumberland
-T34	Target 1827 1835	Windjana
-T35	Target 1846 1862	Confidence Hills
-T36	Target 2571 2579	Windjana
-T37	Target 2650 2666	Confidence Hills
-T38	Target 2935 2943	Rocknest
-T39	Target 3294 3310	Confidence Hills
-T40	Target 3331 3339	Sheepbed
-T41	Target 3356 3366	Cumberland
-T42	Target 3387 3397	John Klein
-T43	Target 3412 3420	Sheepbed
-T44	Target 3472 3482	Cumberland
-T45	Target 3493 3501	Windjana
-T46	Target 3669 3677	Rocknest
-T47	Target 3683 3693	John Klein
-T48	Target 3700 3710	Cumberland
-T49	Target 3711 3719	Windjana
-T50	Target 3720 3736	Confidence Hills
-T51	Target 7668 7676	Rocknest
-T52	Target 8054 8062	Sheepbed
-T53	Target 8869 8873	Amer
-T54	Mineral 2470 2481	Fe-saponite
-T55	Mineral 2515 2524	anhydrite
-T56	Mineral 2526 2535	bassanite
-T57	Mineral 2537 2547	akaganeite
-T58	Mineral 2604 2613	magnetite
-T59	Mineral 2707 2715	hematite
-T60	Mineral 2629 2644	phyllosilicates
+T1	Element 1134 1142	chlorine
+T2	Element 1147 1153	oxygen
+T3	Element 2216 2218	Cl
+T4	Element 2916 2918	Cl
+T5	Element 3009 3011	Cl
+T6	Element 3113 3115	Cl
+T7	Element 3200 3202	Cl
+T8	Element 3459 3461	Cl
+T9	Element 3532 3534	Cl
+T10	Element 3559 3561	Cl
+T11	Element 3772 3778	Oxygen
+T12	Element 4323 4325	Cl
+T13	Element 4798 4800	Cl
+T14	Element 4890 4892	Cl
+T15	Element 4936 4938	Cl
+T16	Element 5125 5127	Cl
+T17	Element 5155 5157	Cl
+T18	Element 5219 5221	Cl
+T19	Element 5453 5455	Cl
+T20	Element 5564 5566	Cl
+T21	Element 5884 5886	Cl
+T22	Element 5949 5951	Cl
+T23	Element 6001 6003	Cl
+T24	Element 6281 6283	Cl
+T25	Element 6426 6428	Cl
+T26	Element 6470 6472	Cl
+T27	Element 6619 6621	Cl
+T28	Element 6855 6857	Cl
+T29	Element 7542 7544	Cl
+T30	Element 7751 7753	Cl
+T31	Target 1750 1758	Rocknest
+T32	Target 1792 1802	John Klein
+T33	Target 1809 1819	Cumberland
+T34	Target 1826 1834	Windjana
+T35	Target 1845 1861	Confidence Hills
+T36	Target 2570 2578	Windjana
+T37	Target 2649 2665	Confidence Hills
+T38	Target 2934 2942	Rocknest
+T39	Target 3293 3309	Confidence Hills
+T40	Target 3330 3338	Sheepbed
+T41	Target 3355 3365	Cumberland
+T42	Target 3386 3396	John Klein
+T43	Target 3411 3419	Sheepbed
+T44	Target 3471 3481	Cumberland
+T45	Target 3492 3500	Windjana
+T46	Target 3667 3675	Rocknest
+T47	Target 3681 3691	John Klein
+T48	Target 3698 3708	Cumberland
+T49	Target 3709 3717	Windjana
+T50	Target 3718 3734	Confidence Hills
+T51	Target 7647 7655	Rocknest
+T52	Target 8033 8041	Sheepbed
+T53	Target 8846 8850	Amer
+T54	Mineral 2469 2480	Fe-saponite
+T55	Mineral 2514 2523	anhydrite
+T56	Mineral 2525 2534	bassanite
+T57	Mineral 2536 2546	akaganeite
+T58	Mineral 2603 2612	magnetite
+T59	Mineral 2706 2714	hematite
+T60	Mineral 2628 2643	phyllosilicates

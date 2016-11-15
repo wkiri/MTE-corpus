@@ -1,16 +1,15 @@
 T1	Element 4241 4242	B
-T2	Element 4563 4564	C
-T3	Element 4947 4948	F
-T4	Element 5049 5050	H
-T5	Element 6605 6606	B
-T6	Element 6699 6700	C
-T7	Element 7709 7716	lithium
+T2	Element 4562 4563	C
+T3	Element 4943 4944	F
+T4	Element 5043 5044	H
+T5	Element 6598 6599	B
+T6	Element 6690 6691	C
+T7	Element 7698 7705	lithium
 T8	Target 3854 3864	John Klein
 T9	Target 4068 4076	Rocknest
 T10	Target 4334 4342	Rocknest
-T11	Target 4776 4784	Rocknest
-T12	Target 5838 5846	Rocknest
-T13	Target 6079 6093	Gillespie Lake
-T14	Target 6467 6481	Gillespie Lake
-T15	Target 7985 7993	Anderson
-T16	Mineral 5654 5663	impactite
+T11	Target 4774 4782	Rocknest
+T12	Target 5831 5839	Rocknest
+T13	Target 6072 6086	Gillespie Lake
+T14	Target 6460 6474	Gillespie Lake
+T15	Target 7974 7982	Anderson

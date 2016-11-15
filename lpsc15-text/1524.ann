@@ -1,23 +1,23 @@
-T1	Element 2256 2265	magnesium
-T2	Element 2306 2310	iron
-T3	Element 2374 2380	sulfur
-T4	Element 2403 2409	nickel
-T5	Element 2507 2508	H
-T6	Element 2565 2571	Sulfur
-T7	Element 3016 3023	silicon
-T8	Element 3025 3034	magnesium
-T9	Element 3036 3044	titanium
-T10	Element 3047 3055	hydrogen
-T11	Element 3152 3156	iron
-T12	Element 3401 3407	sulfur
-T13	Element 3428 3435	calcium
-T14	Element 5095 5101	sulfur
-T15	Element 5112 5119	calcium
-T16	Element 5210 5217	calcium
-T17	Element 5524 5526	Mg
-T18	Element 5554 5555	S
-T19	Element 5728 5730	Mg
-T20	Target 1212 1223	Mount Sharp
-T21	Target 1344 1355	Mount Sharp
-T22	Mineral 5218 5225	sulfate
-T23	Mineral 5788 5796	sulfates
+T1	Element 2253 2262	magnesium
+T2	Element 2303 2307	iron
+T3	Element 2371 2377	sulfur
+T4	Element 2400 2406	nickel
+T5	Element 2504 2505	H
+T6	Element 2562 2568	Sulfur
+T7	Element 3013 3020	silicon
+T8	Element 3022 3031	magnesium
+T9	Element 3033 3041	titanium
+T10	Element 3044 3052	hydrogen
+T11	Element 3149 3153	iron
+T12	Element 3398 3404	sulfur
+T13	Element 3425 3432	calcium
+T14	Element 5089 5095	sulfur
+T15	Element 5106 5113	calcium
+T16	Element 5204 5211	calcium
+T17	Element 5518 5520	Mg
+T18	Element 5548 5549	S
+T19	Element 5722 5724	Mg
+T20	Target 1209 1220	Mount Sharp
+T21	Target 1341 1352	Mount Sharp
+T22	Mineral 5212 5219	sulfate
+T23	Mineral 5782 5790	sulfates

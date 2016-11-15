@@ -27,7 +27,7 @@ T26	Element 6272 6274	Yb
 T27	Element 6279 6281	Lu
 T28	Element 6408 6410	Ir
 T29	Element 6432 6434	Ir
-T30	Element 8745 8747	Th
+T30	Element 8741 8743	Th
 T31	Target 340 347	Madison
 T32	Mineral 376 383	Granite
 T33	Mineral 440 447	granite
@@ -40,7 +40,7 @@ T39	Mineral 3044 3051	granite
 T40	Mineral 3453 3464	anorthosite
 T41	Mineral 3801 3808	granite
 T42	Mineral 5327 5334	granite
-T43	Mineral 6772 6779	granite
-T44	Mineral 6994 7001	granite
+T43	Mineral 6770 6777	granite
+T44	Mineral 6992 6999	granite
 T45	Mineral 1226 1237	plagioclase
 T46	Mineral 2203 2209	quartz

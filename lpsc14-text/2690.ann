@@ -1,11 +1,11 @@
 T1	Element 2212 2214	Fe
 T2	Element 3281 3288	mercury
-T3	Element 5572 5573	C
-T4	Element 5595 5596	B
-T5	Element 5628 5629	B
-T6	Element 5648 5649	C
-T7	Element 6407 6411	iron
+T3	Element 5548 5549	C
+T4	Element 5571 5572	B
+T5	Element 5604 5605	B
+T6	Element 5624 5625	C
+T7	Element 6383 6387	iron
 T8	Mineral 1985 1993	deposite
 T9	Mineral 1957 1963	gypsum
 T10	Mineral 2295 2301	gypsum
-T11	Mineral 6311 6317	gypsum
+T11	Mineral 6287 6293	gypsum

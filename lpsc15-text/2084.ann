@@ -1,7 +1,7 @@
 T1	Element 1417 1418	H
-T2	Element 6056 6058	He
-T3	Element 7493 7494	P
-T4	Element 8400 8402	He
+T2	Element 6055 6057	He
+T3	Element 7492 7493	P
+T4	Element 8399 8401	He
 T5	Mineral 1077 1088	plagioclase
 T6	Mineral 1184 1192	pyroxene
 T7	Mineral 1197 1204	olivine
@@ -12,7 +12,7 @@ T11	Mineral 4203 4214	plagioclase
 T12	Mineral 4281 4288	olivine
 T13	Mineral 4606 4613	olivine
 T14	Mineral 4902 4909	olivine
-T15	Mineral 5723 5730	olivine
-T16	Mineral 6479 6486	olivine
-T17	Mineral 8044 8051	olivine
-T18	Mineral 8192 8199	olivine
+T15	Mineral 5722 5729	olivine
+T16	Mineral 6478 6485	olivine
+T17	Mineral 8043 8050	olivine
+T18	Mineral 8191 8198	olivine

@@ -1,25 +1,25 @@
-T1	Element 2294 2296	Al
-T2	Element 4369 4373	iron
-T3	Element 6179 6183	Iron
-T4	Element 6388 6392	iron
-T5	Element 6536 6540	iron
-T6	Element 6738 6740	Fe
+T1	Element 2293 2295	Al
+T2	Element 4366 4370	iron
+T3	Element 6176 6180	Iron
+T4	Element 6385 6389	iron
+T5	Element 6533 6537	iron
+T6	Element 6735 6737	Fe
 T7	Target 185 193	Winnipeg
 T8	Target 199 206	Portage
 T9	Target 215 223	Winnipeg
-T10	Target 8061 8067	Agency
-T11	Target 8087 8095	Winnipeg
-T12	Mineral 3803 3820	Formula	Magnesite
-T13	Mineral 3831 3849	MgCO3	Fibroferrite
-T14	Mineral 3939 3948	magnesite
-T15	Mineral 3953 3960	huntite
-T16	Mineral 8277 8286	Magnesite
-T17	Mineral 8403 8415	Fibroferrite
+T10	Target 8058 8064	Agency
+T11	Target 8084 8092	Winnipeg
+T12	Mineral 3800 3817	Formula	Magnesite
+T13	Mineral 3828 3846	MgCO3	Fibroferrite
+T14	Mineral 3936 3945	magnesite
+T15	Mineral 3950 3957	huntite
+T16	Mineral 8274 8283	Magnesite
+T17	Mineral 8400 8412	Fibroferrite
 T18	Mineral 840 848	sulfates
 T19	Mineral 862 872	carbonates
 T20	Mineral 887 895	sulfates
 T21	Mineral 1102 1112	Carbonates
 T22	Mineral 1221 1231	carbonates
-T23	Mineral 5879 5888	carbonate
-T24	Mineral 7043 7053	carbonates
-T25	Mineral 7058 7066	sulfates
+T23	Mineral 5876 5885	carbonate
+T24	Mineral 7040 7050	carbonates
+T25	Mineral 7055 7063	sulfates

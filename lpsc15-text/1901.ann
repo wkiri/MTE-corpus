@@ -1,36 +1,36 @@
 T1	Element 1336 1337	B
 T2	Element 1356 1357	C
-T3	Element 4325 4334	magnesium
-T4	Element 5339 5340	B
-T5	Element 5927 5936	magnesium
-T6	Element 5938 5940	Mg
-T7	Element 5967 5973	sulfur
-T8	Element 5975 5976	S
-T9	Element 6396 6398	Mg
-T10	Element 6403 6404	S
-T11	Element 6475 6481	nickel
-T12	Element 6483 6485	Ni
-T13	Element 6501 6505	zinc
-T14	Element 6507 6509	Zn
-T15	Element 6742 6744	Ni
-T16	Element 6760 6762	Zn
-T17	Element 7446 7448	Ni
-T18	Element 7454 7456	Zn
-T19	Element 7999 8001	Ni
-T20	Element 8006 8008	Zn
+T3	Element 4322 4331	magnesium
+T4	Element 5336 5337	B
+T5	Element 5924 5933	magnesium
+T6	Element 5935 5937	Mg
+T7	Element 5964 5970	sulfur
+T8	Element 5972 5973	S
+T9	Element 6393 6395	Mg
+T10	Element 6400 6401	S
+T11	Element 6472 6478	nickel
+T12	Element 6480 6482	Ni
+T13	Element 6498 6502	zinc
+T14	Element 6504 6506	Zn
+T15	Element 6739 6741	Ni
+T16	Element 6757 6759	Zn
+T17	Element 7443 7445	Ni
+T18	Element 7451 7453	Zn
+T19	Element 7996 7998	Ni
+T20	Element 8003 8005	Zn
 T21	Target 966 977	Mount Sharp
 T22	Target 1318 1334	Confidence Hills
 T23	Target 1343 1354	Pink Cliffs
 T24	Target 2274 2285	Pink Cliffs
 T25	Target 2366 2382	Confidence Hills
-T26	Target 5273 5280	Mammoth
-T27	Target 6029 6045	Confidence Hills
-T28	Target 6085 6094	Maturango
-T29	Target 6146 6153	Mammoth
-T30	Target 6187 6196	Maturango
-T31	Target 6234 6241	Mammoth
-T32	Target 6526 6535	Maturango
-T33	Target 6612 6620	Bathurst
-T34	Target 6631 6641	John Klein
-T35	Mineral 4311 4320	anhydrite
-T36	Mineral 4335 4342	sulfate
+T26	Target 5270 5277	Mammoth
+T27	Target 6026 6042	Confidence Hills
+T28	Target 6082 6091	Maturango
+T29	Target 6143 6150	Mammoth
+T30	Target 6184 6193	Maturango
+T31	Target 6231 6238	Mammoth
+T32	Target 6523 6532	Maturango
+T33	Target 6609 6617	Bathurst
+T34	Target 6628 6638	John Klein
+T35	Mineral 4308 4317	anhydrite
+T36	Mineral 4332 4339	sulfate

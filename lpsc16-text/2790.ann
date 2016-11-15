@@ -6,11 +6,11 @@ T5	Element 1644 1646	Na
 T6	Element 4503 4505	Na
 T7	Element 4593 4595	Na
 T8	Element 5833 5837	iron
-T9	Element 6492 6493	O
-T10	Element 7450 7451	K
-T11	Element 7462 7463	K
+T9	Element 6491 6492	O
+T10	Element 7449 7450	K
+T11	Element 7461 7462	K
 T12	Target 5857 5862	Clark
-T13	Target 7440 7448	McKinnon
-T14	Target 7772 7776	Bull
+T13	Target 7439 7447	McKinnon
+T14	Target 7771 7775	Bull
 T15	Mineral 1539 1546	sulfate
-T16	Mineral 6829 6838	carbonate
+T16	Mineral 6828 6837	carbonate

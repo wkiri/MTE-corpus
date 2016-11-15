@@ -1,9 +1,9 @@
-T1	Element 1576 1580	lead
-T2	Element 2775 2776	P
-T3	Element 5525 5532	silicon
-T4	Element 5693 5694	K
-T5	Element 6074 6081	silicon
-T6	Element 7090 7091	H
-T7	Element 7142 7143	H
+T1	Element 1573 1577	lead
+T2	Element 2769 2770	P
+T3	Element 5509 5516	silicon
+T4	Element 5675 5676	K
+T5	Element 6052 6059	silicon
+T6	Element 7066 7067	H
+T7	Element 7118 7119	H
 T8	Target 87 95	Lagrange
-T9	Mineral 4588 4595	olivine
+T9	Mineral 4572 4579	olivine

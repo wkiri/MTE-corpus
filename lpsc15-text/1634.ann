@@ -1,22 +1,22 @@
 T1	Element 2567 2574	calcium
 T2	Element 2623 2624	B
 T3	Element 6398 6399	B
-T4	Element 6954 6958	lead
+T4	Element 6952 6956	lead
 T5	Target 1194 1205	Mount Sharp
 T6	Target 1347 1358	Mount Sharp
 T7	Target 1459 1470	Mount Sharp
 T8	Target 4243 4254	Mount Sharp
 T9	Target 4790 4801	Mount Sharp
-T10	Mineral 7886 7895	magnetite
-T11	Mineral 7933 7944	labradorite
-T12	Mineral 7961 7972	labradorite
+T10	Mineral 7884 7893	magnetite
+T11	Mineral 7931 7942	labradorite
+T12	Mineral 7959 7970	labradorite
 T13	Mineral 1258 1266	sulfates
 T14	Mineral 1985 1992	olivine
 T15	Mineral 2000 2008	pyroxene
 T16	Mineral 2550 2557	Olivine
 T17	Mineral 2575 2583	pyroxene
 T18	Mineral 3946 3953	olivine
-T19	Mineral 6939 6946	olivine
-T20	Mineral 7478 7485	olivine
-T21	Mineral 7493 7501	pyroxene
-T22	Mineral 7850 7857	olivine
+T19	Mineral 6937 6944	olivine
+T20	Mineral 7476 7483	olivine
+T21	Mineral 7491 7499	pyroxene
+T22	Mineral 7848 7855	olivine

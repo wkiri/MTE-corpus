@@ -8,9 +8,9 @@ T7	Element 4326 4330	lead
 T8	Element 4334 4338	iron
 T9	Element 4390 4396	oxygen
 T10	Element 4886 4890	lead
-T11	Element 6264 6266	Fe
-T12	Element 6473 6475	Fe
-T13	Element 6611 6613	Fe
+T11	Element 6263 6265	Fe
+T12	Element 6472 6474	Fe
+T13	Element 6610 6612	Fe
 T14	Target 806 813	Mission
 T15	Target 821 835	Hematite Ridge
 T16	Target 978 986	Mt Sharp
@@ -25,11 +25,11 @@ T24	Target 3336 3343	Portage
 T25	Target 3634 3642	Sheepbed
 T26	Target 3945 3959	Hematite Ridge
 T27	Target 4564 4571	Portage
-T28	Target 5609 5623	Hematite Ridge
-T29	Target 6939 6953	Hematite Ridge
-T30	Target 7224 7238	Hematite Ridge
-T31	Target 7326 7333	Thomson
-T32	Target 7805 7809	Reed
+T28	Target 5608 5622	Hematite Ridge
+T29	Target 6937 6951	Hematite Ridge
+T30	Target 7222 7236	Hematite Ridge
+T31	Target 7324 7331	Thomson
+T32	Target 7803 7807	Reed
 T33	Mineral 821 829	Hematite
 T34	Mineral 1187 1195	Hematite
 T35	Mineral 1364 1372	smectite
@@ -51,16 +51,16 @@ T50	Mineral 4410 4418	hematite
 T51	Mineral 4922 4930	goethite
 T52	Mineral 5119 5127	hematite
 T53	Mineral 5140 5149	magnetite
-T54	Mineral 5409 5417	hematite
-T55	Mineral 5609 5617	Hematite
-T56	Mineral 5734 5742	hematite
-T57	Mineral 5880 5888	hematite
-T58	Mineral 6158 6166	hematite
-T59	Mineral 6546 6554	hematite
-T60	Mineral 6559 6567	goethite
-T61	Mineral 6694 6702	hematite
-T62	Mineral 6939 6947	Hematite
-T63	Mineral 7224 7232	Hematite
+T54	Mineral 5408 5416	hematite
+T55	Mineral 5608 5616	Hematite
+T56	Mineral 5733 5741	hematite
+T57	Mineral 5879 5887	hematite
+T58	Mineral 6157 6165	hematite
+T59	Mineral 6545 6553	hematite
+T60	Mineral 6558 6566	goethite
+T61	Mineral 6693 6701	hematite
+T62	Mineral 6937 6945	Hematite
+T63	Mineral 7222 7230	Hematite
 T64	Mineral 1379 1395	igneous minerals
 T65	Mineral 1598 1605	olivine
 T66	Mineral 2827 2834	olivine
@@ -73,4 +73,4 @@ T72	Mineral 4029 4038	carbonate
 T73	Mineral 4107 4113	quartz
 T74	Mineral 4155 4164	carbonate
 T75	Mineral 4311 4321	carbonates
-T76	Mineral 6614 6623	carbonate
+T76	Mineral 6613 6622	carbonate

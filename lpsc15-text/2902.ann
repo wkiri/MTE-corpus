@@ -1,12 +1,12 @@
-T1	Element 1862 1863	S
-T2	Element 3953 3957	gold
-T3	Element 4261 4262	Y
-T4	Element 4944 4945	Y
-T5	Element 5507 5509	Am
-T6	Mineral 1581 1592	labradorite
-T7	Mineral 3415 3426	labradorite
+T1	Element 1850 1851	S
+T2	Element 3868 3872	gold
+T3	Element 4175 4176	Y
+T4	Element 4858 4859	Y
+T5	Element 5421 5423	Am
+T6	Mineral 1570 1581	labradorite
+T7	Mineral 3331 3342	labradorite
 T8	Mineral 232 243	Plagioclase
 T9	Mineral 244 253	feldspars
-T10	Mineral 1386 1397	plagioclase
-T11	Mineral 1386 1406	plagioclase feldspar
-T12	Mineral 1398 1406	feldspar
+T10	Mineral 1375 1386	plagioclase
+T11	Mineral 1375 1395	plagioclase feldspar
+T12	Mineral 1387 1395	feldspar

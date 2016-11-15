@@ -1,33 +1,33 @@
-T1	Element 1198 1206	chlorine
-T2	Element 1354 1358	Iron
-T3	Element 1579 1581	Fe
-T4	Element 1693 1695	Cl
-T5	Element 2283 2285	He
-T6	Element 2665 2667	He
-T7	Element 3106 3108	Ca
-T8	Element 5427 5433	Oxygen
-T9	Element 5697 5699	Mg
-T10	Element 6291 6293	Cl
-T11	Element 6308 6310	Ca
-T12	Element 6360 6362	Na
-T13	Element 6391 6393	Cl
-T14	Element 7717 7721	iron
-T15	Element 7911 7915	iron
-T16	Element 7979 7981	Fe
-T17	Target 724 732	Rocknest
-T18	Target 761 771	John Klein
-T19	Target 781 791	Cumberland
-T20	Target 1383 1391	Rocknest
-T21	Target 1916 1924	Rocknest
-T22	Target 2006 2016	John Klein
-T23	Target 2077 2085	Sheepbed
-T24	Target 3364 3374	John Klein
-T25	Target 3692 3702	Cumberland
-T26	Target 4028 4038	John Klein
-T27	Mineral 3568 3577	magnetite
-T28	Mineral 3581 3590	maghemite
-T29	Mineral 7736 7744	hematite
-T30	Mineral 7930 7938	hematite
-T31	Mineral 7940 7949	magnetite
-T32	Mineral 7951 7957	pyrite
-T33	Mineral 7959 7967	fayalite
+T1	Element 1195 1203	chlorine
+T2	Element 1351 1355	Iron
+T3	Element 1576 1578	Fe
+T4	Element 1690 1692	Cl
+T5	Element 2278 2280	He
+T6	Element 2659 2661	He
+T7	Element 3100 3102	Ca
+T8	Element 5414 5420	Oxygen
+T9	Element 5683 5685	Mg
+T10	Element 6274 6276	Cl
+T11	Element 6291 6293	Ca
+T12	Element 6343 6345	Na
+T13	Element 6374 6376	Cl
+T14	Element 7698 7702	iron
+T15	Element 7892 7896	iron
+T16	Element 7960 7962	Fe
+T17	Target 721 729	Rocknest
+T18	Target 758 768	John Klein
+T19	Target 778 788	Cumberland
+T20	Target 1380 1388	Rocknest
+T21	Target 1913 1921	Rocknest
+T22	Target 2003 2013	John Klein
+T23	Target 2074 2082	Sheepbed
+T24	Target 3357 3367	John Klein
+T25	Target 3684 3694	Cumberland
+T26	Target 4018 4028	John Klein
+T27	Mineral 3560 3569	magnetite
+T28	Mineral 3573 3582	maghemite
+T29	Mineral 7717 7725	hematite
+T30	Mineral 7911 7919	hematite
+T31	Mineral 7921 7930	magnetite
+T32	Mineral 7932 7938	pyrite
+T33	Mineral 7940 7948	fayalite

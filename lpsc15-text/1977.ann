@@ -1,10 +1,8 @@
 T1	Element 1585 1589	iron
 T2	Element 1735 1739	iron
-T3	Target 7177 7181	King
-T4	Target 7582 7590	Harrison
-T5	Mineral 597 606	satellite
-T6	Mineral 1153 1162	satellite
-T7	Mineral 1789 1798	magnetite
-T8	Mineral 1800 1808	hematite
-T9	Mineral 1814 1824	pyrrhotite
-T10	Mineral 1595 1605	carbonates
+T3	Target 6932 6936	King
+T4	Target 7337 7345	Harrison
+T5	Mineral 1789 1798	magnetite
+T6	Mineral 1800 1808	hematite
+T7	Mineral 1814 1824	pyrrhotite
+T8	Mineral 1595 1605	carbonates

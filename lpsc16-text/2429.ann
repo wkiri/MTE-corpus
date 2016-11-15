@@ -1,11 +1,9 @@
 T1	Element 1283 1290	Mercury
 T2	Element 2670 2671	C
-T3	Element 5413 5414	C
-T4	Element 6924 6925	B
-T5	Element 7144 7145	C
-T6	Element 7439 7440	B
-T7	Element 7441 7442	C
+T3	Element 5409 5410	C
+T4	Element 6920 6921	B
+T5	Element 7140 7141	C
+T6	Element 7435 7436	B
+T7	Element 7437 7438	C
 T8	Target 1136 1147	Snake River
-T9	Target 6036 6042	Agency
-T10	Mineral 1743 1752	satellite
-T11	Mineral 3761 3770	satellite
+T9	Target 6032 6038	Agency

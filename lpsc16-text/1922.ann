@@ -1,10 +1,10 @@
 T1	Element 2184 2191	lithium
 T2	Element 2204 2211	lithium
-T3	Element 3360 3367	rhodium
-T4	Element 3783 3792	beryllium
-T5	Element 3801 3808	uranium
-T6	Element 6122 6130	nitrogen
-T7	Element 6345 6347	Ge
-T8	Target 9162 9173	Long Island
+T3	Element 3359 3366	rhodium
+T4	Element 3782 3791	beryllium
+T5	Element 3800 3807	uranium
+T6	Element 6119 6127	nitrogen
+T7	Element 6341 6343	Ge
+T8	Target 9152 9163	Long Island
 T9	Mineral 2087 2095	graphite
-T10	Mineral 7219 7225	quartz
+T10	Mineral 7212 7218	quartz

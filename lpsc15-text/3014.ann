@@ -1,19 +1,19 @@
-T1	Element 1551 1552	O
-T2	Element 1555 1556	C
-T3	Element 2140 2141	C
-T4	Element 2535 2537	He
-T5	Element 5023 5029	Carbon
-T6	Element 5148 5154	carbon
-T7	Element 5183 5189	carbon
-T8	Element 5305 5307	Fe
-T9	Element 5627 5633	carbon
-T10	Element 5908 5914	oxygen
-T11	Element 6001 6007	carbon
-T12	Element 6219 6225	carbon
-T13	Element 6230 6236	oxygen
-T14	Target 1183 1194	Mount Sharp
-T15	Target 1406 1414	Rocknest
-T16	Target 1421 1431	John Klein
-T17	Target 1438 1448	Cumberland
-T18	Target 1459 1467	Windjana
-T19	Mineral 5323 5333	carbonates
+T1	Element 1547 1548	O
+T2	Element 1551 1552	C
+T3	Element 2136 2137	C
+T4	Element 2529 2531	He
+T5	Element 5012 5018	Carbon
+T6	Element 5137 5143	carbon
+T7	Element 5172 5178	carbon
+T8	Element 5294 5296	Fe
+T9	Element 5613 5619	carbon
+T10	Element 5892 5898	oxygen
+T11	Element 5983 5989	carbon
+T12	Element 6197 6203	carbon
+T13	Element 6208 6214	oxygen
+T14	Target 1179 1190	Mount Sharp
+T15	Target 1402 1410	Rocknest
+T16	Target 1417 1427	John Klein
+T17	Target 1434 1444	Cumberland
+T18	Target 1455 1463	Windjana
+T19	Mineral 5312 5322	carbonates

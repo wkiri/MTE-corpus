@@ -1,9 +1,9 @@
 T1	Element 1899 1908	potassium
-T2	Element 5643 5652	potassium
+T2	Element 5642 5651	potassium
 T3	Mineral 4551 4560	anhydrite
 T4	Mineral 4587 4596	diatomite
-T5	Mineral 7924 7931	calcite
-T6	Mineral 7957 7964	calcite
+T5	Mineral 7922 7929	calcite
+T6	Mineral 7955 7962	calcite
 T7	Mineral 1882 1888	quartz
 T8	Mineral 1890 1897	olivine
 T9	Mineral 1899 1917	potassium feldspar
@@ -22,11 +22,11 @@ T21	Mineral 2525 2534	feldspars
 T22	Mineral 2536 2542	quartz
 T23	Mineral 2548 2553	micas
 T24	Mineral 4540 4546	gypsum
-T25	Mineral 5630 5641	plagioclase
-T26	Mineral 5643 5661	potassium feldspar
-T27	Mineral 5653 5661	feldspar
-T28	Mineral 5663 5669	quartz
-T29	Mineral 5675 5683	pyroxene
-T30	Mineral 5777 5788	plagioclase
-T31	Mineral 5824 5830	quartz
-T32	Mineral 5847 5855	pyroxene
+T25	Mineral 5629 5640	plagioclase
+T26	Mineral 5642 5660	potassium feldspar
+T27	Mineral 5652 5660	feldspar
+T28	Mineral 5662 5668	quartz
+T29	Mineral 5674 5682	pyroxene
+T30	Mineral 5776 5787	plagioclase
+T31	Mineral 5823 5829	quartz
+T32	Mineral 5846 5854	pyroxene

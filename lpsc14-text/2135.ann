@@ -1,8 +1,7 @@
 T1	Element 875 877	Ga
 T2	Element 1663 1665	Ga
 T3	Element 1926 1928	Ga
-T4	Element 4445 4446	N
-T5	Target 5976 5980	Link
-T6	Mineral 2297 2303	finite
-T7	Mineral 2952 2961	magnetite
-T8	Mineral 2970 2978	hematite
+T4	Element 4437 4438	N
+T5	Target 5963 5967	Link
+T6	Mineral 2950 2959	magnetite
+T7	Mineral 2967 2975	hematite

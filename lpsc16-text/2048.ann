@@ -1,44 +1,44 @@
-T1	Element 1971 1973	He
-T2	Element 3054 3055	K
-T3	Element 3125 3131	Sulfur
-T4	Element 3432 3434	Fe
-T5	Element 3476 3478	Fe
-T6	Element 3482 3484	Al
-T7	Element 3596 3598	Fe
-T8	Element 3606 3608	Al
-T9	Element 4493 4494	K
-T10	Element 4633 4635	Ca
-T11	Element 6135 6141	carbon
-T12	Element 6180 6186	carbon
-T13	Element 6228 6229	C
-T14	Target 1160 1168	Rocknest
-T15	Target 1228 1238	John Klein
-T16	Target 1248 1258	Cumberland
-T17	Target 1287 1295	Windjana
-T18	Target 1395 1411	Confidence Hills
-T19	Target 1431 1445	Telegraph Peak
-T20	Target 1456 1464	Buckskin
-T21	Target 1556 1563	Big Sky
-T22	Target 1560 1563	Sky
-T23	Target 1581 1590	Greenhorn
-T24	Target 1656 1664	Rocknest
-T25	Target 3010 3018	Sheepbed
-T26	Target 3296 3304	Sheepbed
-T27	Mineral 2463 2472	bassanite
-T28	Mineral 2506 2516	akaganeite
-T29	Mineral 2635 2643	jarosite
-T30	Mineral 2725 2733	smectite
-T31	Mineral 3854 3862	jarosite
-T32	Mineral 3887 3895	Jarosite
-T33	Mineral 2411 2425	phyllosilicate
-T34	Mineral 3485 3493	sulfates
-T35	Mineral 3609 3616	sulfate
-T36	Mineral 3629 3636	sulfate
-T37	Mineral 3991 3999	sulfates
-T38	Mineral 5199 5209	carbonates
-T39	Mineral 5565 5572	sulfate
-T40	Mineral 5926 5941	phyllosilicates
-T41	Mineral 5943 5953	carbonates
-T42	Mineral 6241 6251	carbonates
-T43	Mineral 7654 7664	carbonates
-T44	Mineral 7698 7705	sulfate
+T1	Element 1965 1967	He
+T2	Element 3048 3049	K
+T3	Element 3119 3125	Sulfur
+T4	Element 3425 3427	Fe
+T5	Element 3469 3471	Fe
+T6	Element 3475 3477	Al
+T7	Element 3589 3591	Fe
+T8	Element 3599 3601	Al
+T9	Element 4485 4486	K
+T10	Element 4625 4627	Ca
+T11	Element 6117 6123	carbon
+T12	Element 6162 6168	carbon
+T13	Element 6210 6211	C
+T14	Target 1157 1165	Rocknest
+T15	Target 1225 1235	John Klein
+T16	Target 1245 1255	Cumberland
+T17	Target 1284 1292	Windjana
+T18	Target 1392 1408	Confidence Hills
+T19	Target 1428 1442	Telegraph Peak
+T20	Target 1453 1461	Buckskin
+T21	Target 1553 1560	Big Sky
+T22	Target 1557 1560	Sky
+T23	Target 1578 1587	Greenhorn
+T24	Target 1653 1661	Rocknest
+T25	Target 3004 3012	Sheepbed
+T26	Target 3289 3297	Sheepbed
+T27	Mineral 2457 2466	bassanite
+T28	Mineral 2500 2510	akaganeite
+T29	Mineral 2629 2637	jarosite
+T30	Mineral 2719 2727	smectite
+T31	Mineral 3847 3855	jarosite
+T32	Mineral 3880 3888	Jarosite
+T33	Mineral 2405 2419	phyllosilicate
+T34	Mineral 3478 3486	sulfates
+T35	Mineral 3602 3609	sulfate
+T36	Mineral 3622 3629	sulfate
+T37	Mineral 3984 3992	sulfates
+T38	Mineral 5187 5197	carbonates
+T39	Mineral 5549 5556	sulfate
+T40	Mineral 5908 5923	phyllosilicates
+T41	Mineral 5925 5935	carbonates
+T42	Mineral 6223 6233	carbonates
+T43	Mineral 7633 7643	carbonates
+T44	Mineral 7677 7684	sulfate

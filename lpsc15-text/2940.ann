@@ -1,13 +1,13 @@
 T1	Element 1874 1875	Y
 T2	Element 2050 2051	Y
 T3	Element 2068 2069	Y
-T4	Element 6645 6647	Mg
-T5	Element 6693 6694	S
-T6	Element 6699 6701	Ca
-T7	Target 3233 3244	Bell Island
-T8	Target 3427 3438	Bell Island
-T9	Target 5188 5199	Bell Island
-T10	Target 6213 6224	Bell Island
-T11	Target 6370 6381	Bell Island
-T12	Target 7658 7669	Bell Island
-T13	Mineral 6541 6548	sulfate
+T4	Element 6593 6595	Mg
+T5	Element 6641 6642	S
+T6	Element 6647 6649	Ca
+T7	Target 3184 3195	Bell Island
+T8	Target 3378 3389	Bell Island
+T9	Target 5136 5147	Bell Island
+T10	Target 6161 6172	Bell Island
+T11	Target 6318 6329	Bell Island
+T12	Target 7606 7617	Bell Island
+T13	Mineral 6489 6496	sulfate

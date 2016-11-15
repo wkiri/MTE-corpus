@@ -3,7 +3,6 @@ T2	Element 1232 1234	Be
 T3	Element 1239 1241	Al
 T4	Element 1407 1409	Mg
 T5	Element 1445 1447	Al
-T6	Element 4571 4572	P
-T7	Element 4869 4873	Gold
-T8	Target 4869 4873	Gold
-T9	Mineral 6022 6034	LL-chondrite
+T6	Element 4504 4505	P
+T7	Element 4801 4805	Gold
+T8	Target 4801 4805	Gold

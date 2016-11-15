@@ -1,9 +1,7 @@
-T1	Element 1034 1035	H
-T2	Element 1200 1201	H
-T3	Element 3210 3211	H
-T4	Element 3270 3271	H
-T5	Element 4425 4429	lead
-T6	Element 6537 6539	La
-T7	Target 6620 6626	Agency
-T8	Mineral 1261 1270	satellite
-T9	Mineral 2721 2730	satellite
+T1	Element 1027 1028	H
+T2	Element 1190 1191	H
+T3	Element 3192 3193	H
+T4	Element 3252 3253	H
+T5	Element 4404 4408	lead
+T6	Element 6515 6517	La
+T7	Target 6598 6604	Agency

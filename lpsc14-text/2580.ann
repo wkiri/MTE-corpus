@@ -2,10 +2,10 @@ T1	Element 1400 1401	F
 T2	Element 1555 1556	F
 T3	Element 1676 1677	F
 T4	Element 1748 1749	N
-T5	Element 1867 1869	Ni
-T6	Element 7943 7951	hydrogen
-T7	Element 8742 8744	Li
-T8	Element 9260 9261	V
-T9	Element 9332 9333	F
-T10	Element 9336 9338	Ge
-T11	Target 8019 8026	Mission
+T5	Element 1866 1868	Ni
+T6	Element 7932 7940	hydrogen
+T7	Element 8731 8733	Li
+T8	Element 9249 9250	V
+T9	Element 9321 9322	F
+T10	Element 9325 9327	Ge
+T11	Target 8008 8015	Mission

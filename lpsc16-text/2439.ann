@@ -1,9 +1,8 @@
 T1	Element 3516 3518	Fe
 T2	Element 3525 3527	Si
-T3	Element 3897 3899	Fe
-T4	Element 4346 4350	iron
-T5	Element 5965 5969	iron
-T6	Element 9676 9683	Mercury
+T3	Element 3896 3898	Fe
+T4	Element 4345 4349	iron
+T5	Element 5963 5967	iron
+T6	Element 9672 9679	Mercury
 T7	Target 1256 1263	Mission
-T8	Target 9173 9180	Mission
-T9	Mineral 8790 8797	website
+T8	Target 9169 9176	Mission

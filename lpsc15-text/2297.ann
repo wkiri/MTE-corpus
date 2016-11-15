@@ -18,8 +18,8 @@ T17	Mineral 2445 2454	anhydrite
 T18	Mineral 2607 2613	halite
 T19	Mineral 2630 2639	anhydrite
 T20	Mineral 2717 2726	anhydrite
-T21	Mineral 4147 4156	anhydrite
-T22	Mineral 4514 4523	Anhydrite
+T21	Mineral 4145 4154	anhydrite
+T22	Mineral 4506 4515	Anhydrite
 T23	Mineral 576 583	sulfate
 T24	Mineral 1746 1753	sulfate
 T25	Mineral 1962 1970	sulfates
@@ -37,4 +37,4 @@ T36	Mineral 3098 3106	pyroxene
 T37	Mineral 3111 3119	feldspar
 T38	Mineral 4065 4071	quartz
 T39	Mineral 4073 4081	pyroxene
-T40	Mineral 4207 4215	pyroxene
+T40	Mineral 4203 4211	pyroxene

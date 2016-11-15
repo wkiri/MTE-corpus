@@ -1,28 +1,28 @@
-T1	Element 1164 1170	oxygen
-T2	Element 1223 1229	oxygen
-T3	Element 3551 3557	Oxygen
-T4	Element 3562 3570	Chlorine
-T5	Element 3708 3710	Cl
-T6	Element 3997 3999	Cl
-T7	Element 4042 4044	Cl
-T8	Element 4064 4066	Cl
-T9	Element 4193 4195	Cl
-T10	Element 4265 4271	oxygen
-T11	Element 4465 4467	Cl
-T12	Element 5145 5147	Cl
-T13	Element 5217 5219	Cl
-T14	Element 5406 5408	Cl
-T15	Element 5443 5445	Cl
-T16	Element 5554 5556	Cl
-T17	Element 5620 5622	Cl
-T18	Target 3883 3893	Cumberland
-T19	Target 5742 5750	Sheepbed
-T20	Target 5841 5851	John Klein
-T21	Target 5861 5871	Cumberland
-T22	Target 5903 5911	Sheepbed
-T23	Target 6083 6093	Cumberland
-T24	Target 6143 6153	John Klein
-T25	Target 6682 6692	John Klein
-T26	Target 6703 6713	Cumberland
-T27	Target 7618 7623	Clark
-T28	Target 7882 7888	Wilson
+T1	Element 1163 1169	oxygen
+T2	Element 1221 1227	oxygen
+T3	Element 3541 3547	Oxygen
+T4	Element 3552 3560	Chlorine
+T5	Element 3698 3700	Cl
+T6	Element 3987 3989	Cl
+T7	Element 4032 4034	Cl
+T8	Element 4054 4056	Cl
+T9	Element 4183 4185	Cl
+T10	Element 4255 4261	oxygen
+T11	Element 4455 4457	Cl
+T12	Element 5135 5137	Cl
+T13	Element 5205 5207	Cl
+T14	Element 5394 5396	Cl
+T15	Element 5431 5433	Cl
+T16	Element 5542 5544	Cl
+T17	Element 5608 5610	Cl
+T18	Target 3873 3883	Cumberland
+T19	Target 5730 5738	Sheepbed
+T20	Target 5829 5839	John Klein
+T21	Target 5849 5859	Cumberland
+T22	Target 5891 5899	Sheepbed
+T23	Target 6071 6081	Cumberland
+T24	Target 6130 6140	John Klein
+T25	Target 6668 6678	John Klein
+T26	Target 6689 6699	Cumberland
+T27	Target 7603 7608	Clark
+T28	Target 7867 7873	Wilson

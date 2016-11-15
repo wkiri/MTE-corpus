@@ -1,16 +1,16 @@
-T1	Element 1801 1807	carbon
-T2	Element 2057 2065	chlorine
-T3	Element 3550 3552	He
-T4	Element 4049 4051	He
-T5	Element 6428 6430	Cl
-T6	Element 7055 7057	Ca
-T7	Element 7367 7369	Ca
-T8	Element 8584 8590	carbon
-T9	Target 1648 1656	Rocknest
-T10	Target 2230 2240	John Klein
-T11	Target 2250 2260	Cumberland
-T12	Target 2773 2781	Sheepbed
-T13	Target 8834 8842	Sheepbed
-T14	Mineral 2388 2396	smectite
-T15	Mineral 8301 8310	magnetite
-T16	Mineral 3360 3366	quartz
+T1	Element 1795 1801	carbon
+T2	Element 2051 2059	chlorine
+T3	Element 3540 3542	He
+T4	Element 4037 4039	He
+T5	Element 6409 6411	Cl
+T6	Element 7036 7038	Ca
+T7	Element 7348 7350	Ca
+T8	Element 8564 8570	carbon
+T9	Target 1642 1650	Rocknest
+T10	Target 2224 2234	John Klein
+T11	Target 2244 2254	Cumberland
+T12	Target 2767 2775	Sheepbed
+T13	Target 8814 8822	Sheepbed
+T14	Mineral 2382 2390	smectite
+T15	Mineral 8281 8290	magnetite
+T16	Mineral 3352 3358	quartz

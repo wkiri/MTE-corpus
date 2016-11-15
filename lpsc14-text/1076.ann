@@ -2,8 +2,7 @@ T1	Element 1433 1435	Ga
 T2	Element 2176 2178	Ga
 T3	Element 5996 5998	Nb
 T4	Element 6003 6005	Ta
-T5	Element 7708 7710	Pb
-T6	Element 7712 7714	Th
-T7	Target 8159 8167	Hamilton
-T8	Target 9475 9481	Wilson
-T9	Mineral 2192 2201	satellite
+T5	Element 7706 7708	Pb
+T6	Element 7710 7712	Th
+T7	Target 8156 8164	Hamilton
+T8	Target 9472 9478	Wilson

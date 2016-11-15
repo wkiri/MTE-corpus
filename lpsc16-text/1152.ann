@@ -1,15 +1,4 @@
 T1	Mineral 179 187	Wellsite
 T2	Mineral 315 326	Indochinite
-T3	Mineral 327 334	tektite
-T4	Mineral 889 896	tektite
-T5	Mineral 1207 1219	Philippinite
-T6	Mineral 2867 2874	tektite
-T7	Mineral 3539 3546	tektite
-T8	Mineral 3595 3602	tektite
-T9	Mineral 3952 3959	tektite
-T10	Mineral 4222 4229	tektite
-T11	Mineral 4316 4323	tektite
-T12	Mineral 4652 4664	Philippinite
-T13	Mineral 4934 4941	tektite
-T14	Mineral 5018 5025	tektite
-T15	Mineral 5608 5615	tektite
+T3	Mineral 1207 1219	Philippinite
+T4	Mineral 4652 4664	Philippinite

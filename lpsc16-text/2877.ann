@@ -1,9 +1,8 @@
-T1	Element 5339 5340	N
-T2	Element 5673 5681	aluminum
-T3	Element 5812 5820	aluminum
+T1	Element 5334 5335	N
+T2	Element 5668 5676	aluminum
+T3	Element 5807 5815	aluminum
 T4	Target 713 720	Mission
 T5	Target 1464 1471	Mission
 T6	Mineral 608 622	microsatellite
-T7	Mineral 893 906	Nanosatellite
-T8	Mineral 1421 1435	microsatellite
-T9	Mineral 2006 2020	microsatellite
+T7	Mineral 1421 1435	microsatellite
+T8	Mineral 2002 2016	microsatellite

@@ -1,8 +1,7 @@
-T1	Element 2848 2849	H
-T2	Element 3651 3652	C
-T3	Element 5785 5786	H
-T4	Element 9818 9819	C
-T5	Element 9834 9835	F
-T6	Mineral 3345 3351	finite
-T7	Mineral 3675 3686	harzburgite
-T8	Mineral 3981 3992	harzburgite
+T1	Element 2842 2843	H
+T2	Element 3612 3613	C
+T3	Element 5738 5739	H
+T4	Element 9769 9770	C
+T5	Element 9785 9786	F
+T6	Mineral 3636 3647	harzburgite
+T7	Mineral 3942 3953	harzburgite

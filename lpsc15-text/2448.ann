@@ -1,9 +1,8 @@
 T1	Element 4143 4144	H
-T2	Element 8108 8109	W
-T3	Element 8170 8171	K
-T4	Element 8172 8173	S
-T5	Mineral 3199 3209	achondrite
-T6	Mineral 3244 3253	chondrite
-T7	Mineral 3933 3940	Angrite
-T8	Mineral 3974 3983	Howardite
-T9	Mineral 3995 4002	Eucrite
+T2	Element 8107 8108	W
+T3	Element 8169 8170	K
+T4	Element 8171 8172	S
+T5	Mineral 3244 3253	chondrite
+T6	Mineral 3933 3940	Angrite
+T7	Mineral 3974 3983	Howardite
+T8	Mineral 3995 4002	Eucrite

@@ -1,9 +1,6 @@
-T1	Element 2625 2626	N
+T1	Element 2624 2625	N
 T2	Target 383 389	Agency
-T3	Target 1766 1773	Mission
-T4	Target 2883 2890	Mission
-T5	Target 4979 4986	Mission
-T6	Target 9868 9872	Ross
-T7	Mineral 3530 3539	satellite
-T8	Mineral 5576 5585	satellite
-T9	Mineral 5982 5991	satellite
+T3	Target 1765 1772	Mission
+T4	Target 2882 2889	Mission
+T5	Target 4976 4983	Mission
+T6	Target 9864 9868	Ross

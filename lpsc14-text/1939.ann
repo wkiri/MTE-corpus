@@ -5,7 +5,6 @@ T4	Element 7390 7392	Fe
 T5	Element 7459 7461	Fe
 T6	Element 8474 8476	Fe
 T7	Element 8566 8567	P
-T8	Mineral 5325 5342	nonmicrometeorite
-T9	Mineral 6456 6464	ilmenite
-T10	Mineral 6242 6250	pyroxene
-T11	Mineral 6477 6485	pyroxene
+T8	Mineral 6456 6464	ilmenite
+T9	Mineral 6242 6250	pyroxene
+T10	Mineral 6477 6485	pyroxene

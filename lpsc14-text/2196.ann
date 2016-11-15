@@ -16,8 +16,8 @@ T15	Element 6235 6236	B
 T16	Element 6365 6366	C
 T17	Element 6478 6482	iron
 T18	Element 6534 6535	B
-T19	Element 6971 6973	Cr
-T20	Element 6997 6999	Cr
+T19	Element 6968 6970	Cr
+T20	Element 6994 6996	Cr
 T21	Mineral 162 173	niningerite
 T22	Mineral 175 183	troilite
 T23	Mineral 189 198	oldhamite
@@ -49,9 +49,9 @@ T48	Mineral 6268 6276	chromite
 T49	Mineral 6342 6350	chromite
 T50	Mineral 6431 6439	chromite
 T51	Mineral 6490 6498	chromite
-T52	Mineral 7040 7048	fayalite
-T53	Mineral 7074 7083	enstatite
-T54	Mineral 7091 7102	niningerite
+T52	Mineral 7037 7045	fayalite
+T53	Mineral 7071 7080	enstatite
+T54	Mineral 7088 7099	niningerite
 T55	Mineral 402 409	olivine
 T56	Mineral 414 422	pyroxene
 T57	Mineral 847 854	olivine
@@ -79,7 +79,7 @@ T78	Mineral 4449 4457	pyroxene
 T79	Mineral 5718 5725	olivine
 T80	Mineral 5900 5907	olivine
 T81	Mineral 6226 6233	olivine
-T82	Mineral 6792 6799	olivine
-T83	Mineral 6804 6812	pyroxene
-T84	Mineral 7015 7022	olivine
-T85	Mineral 7060 7067	olivine
+T82	Mineral 6789 6796	olivine
+T83	Mineral 6801 6809	pyroxene
+T84	Mineral 7012 7019	olivine
+T85	Mineral 7057 7064	olivine

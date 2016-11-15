@@ -1,56 +1,56 @@
-T1	Element 1119 1123	zinc
-T2	Element 7712 7713	S
-T3	Target 369 377	Winnipeg
-T4	Target 1036 1048	Bagnold Dune
-T5	Target 1695 1703	Buckskin
-T6	Target 1881 1888	Big Sky
-T7	Target 1885 1888	Sky
-T8	Target 2066 2075	Greenhorn
-T9	Target 2393 2400	Augusta
-T10	Target 2671 2683	Bagnold Dune
-T11	Target 3140 3148	Buckskin
-T12	Target 3588 3595	Big Sky
-T13	Target 3588 3604	Big Sky tailings
-T14	Target 3592 3595	Sky
-T15	Target 3638 3652	Telegraph Peak
-T16	Target 3879 3888	Greenhorn
-T17	Target 4217 4224	Big Sky
-T18	Target 4221 4224	Sky
-T19	Target 4292 4300	Buckskin
-T20	Target 4458 4465	Augusta
-T21	Target 4761 4777	Confidence Hills
-T22	Target 5118 5132	Hematite Ridge
-T23	Target 5896 5904	Buckskin
-T24	Target 5906 5913	Big Sky
-T25	Target 5910 5913	Sky
-T26	Target 5915 5924	Greenhorn
-T27	Target 5974 5982	Buckskin
-T28	Target 6096 6103	Big Sky
-T29	Target 6100 6103	Sky
-T30	Target 6190 6204	Telegraph Peak
-T31	Target 6207 6214	Big Sky
-T32	Target 6211 6214	Sky
-T33	Target 6219 6228	Greenhorn
-T34	Target 6656 6663	Augusta
-T35	Target 6927 6941	Hematite Ridge
-T36	Target 6999 7011	Bagnold Dune
-T37	Target 7622 7626	Amer
-T38	Target 8013 8023	Cumberland
-T39	Target 8025 8041	Confidence Hills
-T40	Target 8046 8060	Telegraph Peak
-T41	Target 8161 8173	Bagnold Dune
-T42	Mineral 3268 3277	magnetite
-T43	Mineral 3357 3365	hematite
-T44	Mineral 3682 3691	magnetite
-T45	Mineral 4015 4024	magnetite
-T46	Mineral 4028 4036	ilmenite
-T47	Mineral 4561 4569	hematite
-T48	Mineral 5072 5080	hematite
-T49	Mineral 5118 5126	Hematite
-T50	Mineral 6927 6935	Hematite
-T51	Mineral 3823 3831	sulfates
-T52	Mineral 5264 5271	olivine
-T53	Mineral 5377 5384	olivine
-T54	Mineral 5710 5717	olivine
-T55	Mineral 6087 6094	sulfate
-T56	Mineral 7154 7161	olivine
+T1	Element 1115 1119	zinc
+T2	Element 7708 7709	S
+T3	Target 368 376	Winnipeg
+T4	Target 1032 1044	Bagnold Dune
+T5	Target 1691 1699	Buckskin
+T6	Target 1877 1884	Big Sky
+T7	Target 1881 1884	Sky
+T8	Target 2062 2071	Greenhorn
+T9	Target 2389 2396	Augusta
+T10	Target 2667 2679	Bagnold Dune
+T11	Target 3136 3144	Buckskin
+T12	Target 3584 3591	Big Sky
+T13	Target 3584 3600	Big Sky tailings
+T14	Target 3588 3591	Sky
+T15	Target 3634 3648	Telegraph Peak
+T16	Target 3875 3884	Greenhorn
+T17	Target 4213 4220	Big Sky
+T18	Target 4217 4220	Sky
+T19	Target 4288 4296	Buckskin
+T20	Target 4454 4461	Augusta
+T21	Target 4757 4773	Confidence Hills
+T22	Target 5114 5128	Hematite Ridge
+T23	Target 5892 5900	Buckskin
+T24	Target 5902 5909	Big Sky
+T25	Target 5906 5909	Sky
+T26	Target 5911 5920	Greenhorn
+T27	Target 5970 5978	Buckskin
+T28	Target 6092 6099	Big Sky
+T29	Target 6096 6099	Sky
+T30	Target 6186 6200	Telegraph Peak
+T31	Target 6203 6210	Big Sky
+T32	Target 6207 6210	Sky
+T33	Target 6215 6224	Greenhorn
+T34	Target 6652 6659	Augusta
+T35	Target 6923 6937	Hematite Ridge
+T36	Target 6995 7007	Bagnold Dune
+T37	Target 7618 7622	Amer
+T38	Target 8009 8019	Cumberland
+T39	Target 8021 8037	Confidence Hills
+T40	Target 8042 8056	Telegraph Peak
+T41	Target 8157 8169	Bagnold Dune
+T42	Mineral 3264 3273	magnetite
+T43	Mineral 3353 3361	hematite
+T44	Mineral 3678 3687	magnetite
+T45	Mineral 4011 4020	magnetite
+T46	Mineral 4024 4032	ilmenite
+T47	Mineral 4557 4565	hematite
+T48	Mineral 5068 5076	hematite
+T49	Mineral 5114 5122	Hematite
+T50	Mineral 6923 6931	Hematite
+T51	Mineral 3819 3827	sulfates
+T52	Mineral 5260 5267	olivine
+T53	Mineral 5373 5380	olivine
+T54	Mineral 5706 5713	olivine
+T55	Mineral 6083 6090	sulfate
+T56	Mineral 7150 7157	olivine

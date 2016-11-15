@@ -1,23 +1,23 @@
-T1	Element 7157 7161	lead
-T2	Element 7388 7392	lead
-T3	Element 8025 8026	N
-T4	Element 8036 8037	V
-T5	Element 8065 8066	P
-T6	Element 8115 8116	P
-T7	Element 8187 8188	K
-T8	Target 1070 1081	Snake River
-T9	Target 1326 1337	Snake River
-T10	Target 1439 1450	Snake River
-T11	Target 1516 1527	Snake River
-T12	Target 1729 1740	Snake River
-T13	Target 2048 2059	Snake River
-T14	Target 2798 2809	Snake River
-T15	Target 3500 3511	Snake River
-T16	Target 4001 4012	Snake River
-T17	Target 4156 4167	Snake River
-T18	Target 5564 5575	Snake River
-T19	Target 5925 5936	Snake River
-T20	Target 6232 6243	Snake River
-T21	Target 6404 6415	Snake River
-T22	Target 6606 6617	Snake River
-T23	Target 7922 7932	Richardson
+T1	Element 7155 7159	lead
+T2	Element 7386 7390	lead
+T3	Element 8023 8024	N
+T4	Element 8034 8035	V
+T5	Element 8062 8063	P
+T6	Element 8112 8113	P
+T7	Element 8184 8185	K
+T8	Target 1069 1080	Snake River
+T9	Target 1325 1336	Snake River
+T10	Target 1438 1449	Snake River
+T11	Target 1515 1526	Snake River
+T12	Target 1728 1739	Snake River
+T13	Target 2047 2058	Snake River
+T14	Target 2797 2808	Snake River
+T15	Target 3499 3510	Snake River
+T16	Target 4000 4011	Snake River
+T17	Target 4154 4165	Snake River
+T18	Target 5562 5573	Snake River
+T19	Target 5923 5934	Snake River
+T20	Target 6230 6241	Snake River
+T21	Target 6402 6413	Snake River
+T22	Target 6604 6615	Snake River
+T23	Target 7920 7930	Richardson

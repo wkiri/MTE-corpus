@@ -1,20 +1,17 @@
-T1	Element 1357 1358	N
-T2	Element 1367 1368	W
-T3	Element 3724 3725	B
-T4	Element 3752 3753	C
-T5	Element 3880 3881	F
-T6	Element 7600 7601	B
+T1	Element 1356 1357	N
+T2	Element 1365 1366	W
+T3	Element 3722 3723	B
+T4	Element 3750 3751	C
+T5	Element 3878 3879	F
+T6	Element 7598 7599	B
 T7	Target 727 735	Marshall
 T8	Target 883 889	Agency
 T9	Target 992 998	Ithaca
-T10	Target 1386 1396	Hudson Bay
-T11	Target 7854 7859	Cosmo
-T12	Target 8077 8081	Bull
-T13	Target 8158 8161	Rae
-T14	Mineral 4209 4221	granodiorite
-T15	Mineral 4234 4246	monzodiorite
-T16	Mineral 5303 5318	pseudotachylite
-T17	Mineral 5377 5386	impactite
-T18	Mineral 5703 5712	impactite
-T19	Mineral 6417 6426	impactite
-T20	Mineral 4227 4233	quartz
+T10	Target 1384 1394	Hudson Bay
+T11	Target 7852 7857	Cosmo
+T12	Target 8075 8079	Bull
+T13	Target 8156 8159	Rae
+T14	Mineral 4207 4219	granodiorite
+T15	Mineral 4232 4244	monzodiorite
+T16	Mineral 5301 5316	pseudotachylite
+T17	Mineral 4225 4231	quartz

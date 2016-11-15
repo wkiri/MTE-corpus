@@ -1,14 +1,14 @@
-T1	Element 5457 5459	Ca
-T2	Element 5461 5462	S
-T3	Element 5464 5466	Mg
-T4	Element 7261 7269	chlorine
-T5	Element 7282 7288	carbon
-T6	Target 3479 3495	Confidence Hills
-T7	Target 3725 3741	Confidence Hills
-T8	Target 5038 5049	Pink Cliffs
-T9	Target 6168 6176	Sheepbed
-T10	Target 6678 6688	Cumberland
-T11	Target 6711 6719	Sheepbed
-T12	Mineral 3778 3786	Hematite
-T13	Mineral 3936 3944	hematite
-T14	Mineral 3703 3718	phyllosilicates
+T1	Element 5456 5458	Ca
+T2	Element 5460 5461	S
+T3	Element 5463 5465	Mg
+T4	Element 7259 7267	chlorine
+T5	Element 7280 7286	carbon
+T6	Target 3478 3494	Confidence Hills
+T7	Target 3724 3740	Confidence Hills
+T8	Target 5037 5048	Pink Cliffs
+T9	Target 6166 6174	Sheepbed
+T10	Target 6676 6686	Cumberland
+T11	Target 6709 6717	Sheepbed
+T12	Mineral 3777 3785	Hematite
+T13	Mineral 3935 3943	hematite
+T14	Mineral 3702 3717	phyllosilicates

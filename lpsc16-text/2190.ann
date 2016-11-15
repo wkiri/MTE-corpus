@@ -6,11 +6,11 @@ T5	Element 917 919	Ne
 T6	Element 1194 1196	Pu
 T7	Element 2767 2773	oxygen
 T8	Element 2899 2905	oxygen
-T9	Element 4909 4917	chlorine
-T10	Element 4922 4931	manganese
-T11	Element 5027 5033	oxygen
-T12	Element 6236 6244	fluorine
-T13	Element 6363 6369	oxygen
+T9	Element 4908 4916	chlorine
+T10	Element 4921 4930	manganese
+T11	Element 5026 5032	oxygen
+T12	Element 6231 6239	fluorine
+T13	Element 6358 6364	oxygen
 T14	Target 217 223	Ithaca
 T15	Target 1531 1538	Big Sky
 T16	Target 1535 1538	Sky
@@ -39,18 +39,18 @@ T38	Target 4499 4506	Big Sky
 T39	Target 4503 4506	Sky
 T40	Target 4639 4646	Big Sky
 T41	Target 4643 4646	Sky
-T42	Target 5090 5097	Big Sky
-T43	Target 5094 5097	Sky
-T44	Target 5313 5320	Big Sky
-T45	Target 5317 5320	Sky
-T46	Target 5858 5865	Big Sky
-T47	Target 5862 5865	Sky
-T48	Target 6034 6041	Big Sky
-T49	Target 6038 6041	Sky
-T50	Target 6320 6327	Big Sky
-T51	Target 6324 6327	Sky
-T52	Target 6839 6846	Big Sky
-T53	Target 6843 6846	Sky
-T54	Target 7242 7248	Agency
+T42	Target 5089 5096	Big Sky
+T43	Target 5093 5096	Sky
+T44	Target 5310 5317	Big Sky
+T45	Target 5314 5317	Sky
+T46	Target 5854 5861	Big Sky
+T47	Target 5858 5861	Sky
+T48	Target 6029 6036	Big Sky
+T49	Target 6033 6036	Sky
+T50	Target 6315 6322	Big Sky
+T51	Target 6319 6322	Sky
+T52	Target 6833 6840	Big Sky
+T53	Target 6837 6840	Sky
+T54	Target 7236 7242	Agency
 T55	Mineral 976 986	carbonates
-T56	Mineral 6224 6234	carbonates
+T56	Mineral 6219 6229	carbonates

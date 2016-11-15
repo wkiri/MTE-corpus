@@ -10,7 +10,7 @@ T9	Element 3293 3299	oxygen
 T10	Element 4171 4175	iron
 T11	Element 4986 4988	Fe
 T12	Element 6021 6023	Fe
-T13	Element 6076 6078	Fe
+T13	Element 6075 6077	Fe
 T14	Target 4198 4206	Sheepbed
 T15	Target 4462 4470	Sheepbed
 T16	Target 5705 5709	Amer
@@ -23,7 +23,7 @@ T22	Mineral 2530 2538	Smectite
 T23	Mineral 3645 3653	smectite
 T24	Mineral 4157 4166	magnetite
 T25	Mineral 4386 4394	saponite
-T26	Mineral 4542 4552	nontronite
-T27	Mineral 4880 4888	smectite
-T28	Mineral 6199 6214	montmorillonite
-T29	Mineral 6220 6231	Mg-saponite
+T26	Mineral 4558 4568	nontronite
+T27	Mineral 4896 4904	smectite
+T28	Mineral 6214 6229	montmorillonite
+T29	Mineral 6235 6246	Mg-saponite

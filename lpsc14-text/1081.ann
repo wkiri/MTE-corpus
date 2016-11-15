@@ -1,11 +1,5 @@
 T1	Target 6809 6813	Bull
 T2	Mineral 168 176	Wellsite
-T3	Mineral 280 287	tektite
-T4	Mineral 432 439	tektite
-T5	Mineral 478 490	macrotektite
-T6	Mineral 704 717	macro-tektite
-T7	Mineral 799 811	macrotektite
-T8	Mineral 2907 2914	tektite
-T9	Mineral 3654 3665	indochinite
-T10	Mineral 4146 4160	lechatelierite
-T11	Mineral 6127 6136	irghizite
+T3	Mineral 3654 3665	indochinite
+T4	Mineral 4146 4160	lechatelierite
+T5	Mineral 6127 6136	irghizite

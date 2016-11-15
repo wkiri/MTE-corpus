@@ -11,11 +11,11 @@ T10	Element 3938 3939	S
 T11	Element 4047 4049	Cl
 T12	Element 4110 4112	Cl
 T13	Element 4173 4175	Cl
-T14	Element 8275 8277	Na
+T14	Element 8269 8271	Na
 T15	Target 855 863	Rocknest
 T16	Target 875 885	John Klein
 T17	Target 908 918	Cumberland
-T18	Target 6999 7007	Morrison
+T18	Target 6993 7001	Morrison
 T19	Mineral 1359 1367	saponite
 T20	Mineral 1651 1664	Fe-forsterite
 T21	Mineral 1666 1672	augite
@@ -52,12 +52,12 @@ T51	Mineral 5049 5062	Fe-forsterite
 T52	Mineral 5096 5104	Smectite
 T53	Mineral 5171 5179	saponite
 T54	Mineral 5193 5201	smectite
-T55	Mineral 7267 7275	saponite
-T56	Mineral 7286 7294	saponite
-T57	Mineral 7427 7435	Saponite
-T58	Mineral 9388 9396	smectite
-T59	Mineral 9423 9431	saponite
-T60	Mineral 9488 9496	saponite
+T55	Mineral 7261 7269	saponite
+T56	Mineral 7280 7288	saponite
+T57	Mineral 7421 7429	Saponite
+T58	Mineral 9378 9386	smectite
+T59	Mineral 9413 9421	saponite
+T60	Mineral 9478 9486	saponite
 T61	Mineral 1546 1561	phyllosilicates
 T62	Mineral 2431 2444	orthopyroxene
 T63	Mineral 2552 2560	pyroxene

@@ -1,88 +1,87 @@
 T1	Element 2820 2824	iron
 T2	Element 3253 3257	iron
-T3	Element 3880 3886	Sulfur
-T4	Element 3990 3996	Sulfur
-T5	Element 4016 4023	calcium
-T6	Element 4146 4148	Ca
-T7	Element 4341 4343	Na
-T8	Element 4345 4347	Mg
-T9	Element 4349 4351	Al
-T10	Element 4353 4354	K
-T11	Element 4359 4361	Ca
-T12	Element 4389 4395	sulfur
-T13	Element 4739 4745	sulfur
-T14	Element 5326 5332	sulfur
-T15	Element 5336 5344	chlorine
-T16	Element 5470 5476	Sulfur
-T17	Element 6088 6094	sulfur
-T18	Element 7204 7206	Si
-T19	Element 7211 7213	Ti
-T20	Element 7418 7424	sulfur
-T21	Element 7638 7644	sulfur
-T22	Element 7854 7860	sulfur
-T23	Element 8073 8075	Fe
-T24	Element 8077 8079	Mg
-T25	Element 8084 8086	Al
-T26	Element 8239 8245	sulfur
-T27	Target 1294 1301	Big Sky
-T28	Target 1298 1301	Sky
-T29	Target 1320 1329	Greenhorn
-T30	Target 2157 2165	Rocknest
-T31	Target 2229 2236	Big Sky
-T32	Target 2233 2236	Sky
-T33	Target 2318 2327	Greenhorn
-T34	Target 2384 2392	Rocknest
-T35	Target 2613 2620	Big Sky
-T36	Target 2617 2620	Sky
-T37	Target 2860 2867	Big Sky
-T38	Target 2864 2867	Sky
-T39	Target 3758 3766	Rocknest
-T40	Target 3786 3793	Big Sky
-T41	Target 3790 3793	Sky
-T42	Target 3800 3809	Greenhorn
-T43	Target 4073 4082	Greenhorn
-T44	Target 4250 4259	Greenhorn
-T45	Target 4501 4510	Greenhorn
-T46	Target 4708 4717	Greenhorn
-T47	Target 6194 6203	Greenhorn
-T48	Target 6253 6262	Greenhorn
-T49	Target 6294 6301	Big Sky
-T50	Target 6298 6301	Sky
-T51	Target 6343 6352	Greenhorn
-T52	Target 6532 6541	Greenhorn
-T53	Mineral 2539 2548	magnetite
-T54	Mineral 2553 2562	anhydrite
-T55	Mineral 2712 2721	anhydrite
-T56	Mineral 2833 2842	magnetite
-T57	Mineral 2847 2855	hematite
-T58	Mineral 3137 3146	magnetite
-T59	Mineral 3151 3159	hematite
-T60	Mineral 4100 4109	bassanite
-T61	Mineral 4237 4246	pigeonite
-T62	Mineral 4522 4531	bassanite
-T63	Mineral 4536 4545	anhydrite
-T64	Mineral 8019 8027	Hematite
-T65	Mineral 8323 8332	magnetite
-T66	Mineral 2416 2427	plagioclase
-T67	Mineral 2416 2436	plagioclase feldspar
-T68	Mineral 2428 2436	feldspar
-T69	Mineral 2438 2445	olivine
-T70	Mineral 2668 2676	feldspar
-T71	Mineral 2678 2686	pyroxene
-T72	Mineral 2790 2797	olivine
-T73	Mineral 3089 3096	olivine
-T74	Mineral 3524 3531	olivine
-T75	Mineral 3601 3608	olivine
-T76	Mineral 4165 4172	sulfate
-T77	Mineral 4197 4208	plagioclase
-T78	Mineral 4482 4489	sulfate
-T79	Mineral 4822 4830	sulfates
-T80	Mineral 5243 5251	sulfates
-T81	Mineral 5819 5827	sulfates
-T82	Mineral 6028 6035	sulfate
-T83	Mineral 6182 6190	sulfates
-T84	Mineral 6445 6456	plagioclase
-T85	Mineral 6445 6465	plagioclase feldspar
-T86	Mineral 6457 6465	feldspar
-T87	Mineral 6594 6605	plagioclase
-T88	Mineral 6610 6618	pyroxene
+T3	Element 3990 3996	Sulfur
+T4	Element 4016 4023	calcium
+T5	Element 4146 4148	Ca
+T6	Element 4341 4343	Na
+T7	Element 4345 4347	Mg
+T8	Element 4349 4351	Al
+T9	Element 4353 4354	K
+T10	Element 4359 4361	Ca
+T11	Element 4389 4395	sulfur
+T12	Element 4739 4745	sulfur
+T13	Element 5326 5332	sulfur
+T14	Element 5336 5344	chlorine
+T15	Element 5470 5476	Sulfur
+T16	Element 6088 6094	sulfur
+T17	Element 7204 7206	Si
+T18	Element 7211 7213	Ti
+T19	Element 7418 7424	sulfur
+T20	Element 7638 7644	sulfur
+T21	Element 7854 7860	sulfur
+T22	Element 8073 8075	Fe
+T23	Element 8077 8079	Mg
+T24	Element 8084 8086	Al
+T25	Element 8239 8245	sulfur
+T26	Target 1294 1301	Big Sky
+T27	Target 1298 1301	Sky
+T28	Target 1320 1329	Greenhorn
+T29	Target 2157 2165	Rocknest
+T30	Target 2229 2236	Big Sky
+T31	Target 2233 2236	Sky
+T32	Target 2318 2327	Greenhorn
+T33	Target 2384 2392	Rocknest
+T34	Target 2613 2620	Big Sky
+T35	Target 2617 2620	Sky
+T36	Target 2860 2867	Big Sky
+T37	Target 2864 2867	Sky
+T38	Target 3758 3766	Rocknest
+T39	Target 3786 3793	Big Sky
+T40	Target 3790 3793	Sky
+T41	Target 3800 3809	Greenhorn
+T42	Target 4073 4082	Greenhorn
+T43	Target 4250 4259	Greenhorn
+T44	Target 4501 4510	Greenhorn
+T45	Target 4708 4717	Greenhorn
+T46	Target 6194 6203	Greenhorn
+T47	Target 6253 6262	Greenhorn
+T48	Target 6294 6301	Big Sky
+T49	Target 6298 6301	Sky
+T50	Target 6343 6352	Greenhorn
+T51	Target 6532 6541	Greenhorn
+T52	Mineral 2539 2548	magnetite
+T53	Mineral 2553 2562	anhydrite
+T54	Mineral 2712 2721	anhydrite
+T55	Mineral 2833 2842	magnetite
+T56	Mineral 2847 2855	hematite
+T57	Mineral 3137 3146	magnetite
+T58	Mineral 3151 3159	hematite
+T59	Mineral 4100 4109	bassanite
+T60	Mineral 4237 4246	pigeonite
+T61	Mineral 4522 4531	bassanite
+T62	Mineral 4536 4545	anhydrite
+T63	Mineral 8019 8027	Hematite
+T64	Mineral 8323 8332	magnetite
+T65	Mineral 2416 2427	plagioclase
+T66	Mineral 2416 2436	plagioclase feldspar
+T67	Mineral 2428 2436	feldspar
+T68	Mineral 2438 2445	olivine
+T69	Mineral 2668 2676	feldspar
+T70	Mineral 2678 2686	pyroxene
+T71	Mineral 2790 2797	olivine
+T72	Mineral 3089 3096	olivine
+T73	Mineral 3524 3531	olivine
+T74	Mineral 3601 3608	olivine
+T75	Mineral 4165 4172	sulfate
+T76	Mineral 4197 4208	plagioclase
+T77	Mineral 4482 4489	sulfate
+T78	Mineral 4822 4830	sulfates
+T79	Mineral 5243 5251	sulfates
+T80	Mineral 5819 5827	sulfates
+T81	Mineral 6028 6035	sulfate
+T82	Mineral 6182 6190	sulfates
+T83	Mineral 6445 6456	plagioclase
+T84	Mineral 6445 6465	plagioclase feldspar
+T85	Mineral 6457 6465	feldspar
+T86	Mineral 6594 6605	plagioclase
+T87	Mineral 6610 6618	pyroxene

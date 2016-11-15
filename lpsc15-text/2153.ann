@@ -1,22 +1,22 @@
-T1	Element 4547 4549	Mg
-T2	Element 6549 6550	F
+T1	Element 4544 4546	Mg
+T2	Element 6546 6547	F
 T3	Target 2672 2688	Confidence Hills
-T4	Target 3728 3739	Book Cliffs
-T5	Target 3836 3847	Book Cliffs
-T6	Target 4134 4145	Pink Cliffs
-T7	Target 4450 4466	Confidence Hills
-T8	Target 4514 4525	Pink Cliffs
-T9	Target 6709 6713	Bull
-T10	Target 6726 6730	Amer
-T11	Target 6753 6761	Anderson
-T12	Target 6781 6785	Bull
-T13	Target 6798 6802	Amer
-T14	Mineral 2803 2809	illite
-T15	Mineral 2823 2830	smetite
-T16	Mineral 2836 2844	jarosite
-T17	Mineral 3507 3515	Jarosite
-T18	Mineral 4914 4922	Jarosite
-T19	Mineral 5272 5280	jarosite
-T20	Mineral 4177 4183	gypsum
-T21	Mineral 4550 4558	Sulfates
-T22	Mineral 4759 4765	gypsum
+T4	Target 3725 3736	Book Cliffs
+T5	Target 3833 3844	Book Cliffs
+T6	Target 4131 4142	Pink Cliffs
+T7	Target 4447 4463	Confidence Hills
+T8	Target 4511 4522	Pink Cliffs
+T9	Target 6706 6710	Bull
+T10	Target 6723 6727	Amer
+T11	Target 6750 6758	Anderson
+T12	Target 6778 6782	Bull
+T13	Target 6795 6799	Amer
+T14	Mineral 2802 2808	illite
+T15	Mineral 2822 2829	smetite
+T16	Mineral 2835 2843	jarosite
+T17	Mineral 3504 3512	Jarosite
+T18	Mineral 4911 4919	Jarosite
+T19	Mineral 5269 5277	jarosite
+T20	Mineral 4174 4180	gypsum
+T21	Mineral 4547 4555	Sulfates
+T22	Mineral 4756 4762	gypsum

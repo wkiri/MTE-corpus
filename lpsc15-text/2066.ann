@@ -1,12 +1,12 @@
-T1	Element 2821 2822	I
-T2	Element 3314 3320	carbon
-T3	Element 3366 3372	carbon
-T4	Element 3745 3751	carbon
-T5	Element 6400 6406	helium
-T6	Target 2848 2856	Rocknest
-T7	Target 2863 2873	John Klein
-T8	Target 2880 2890	Cumberland
-T9	Target 6203 6211	Rocknest
-T10	Mineral 4278 4293	phyllosilicates
-T11	Mineral 4316 4322	quartz
-T12	Mineral 5697 5703	quartz
+T1	Element 2813 2814	I
+T2	Element 3305 3311	carbon
+T3	Element 3357 3363	carbon
+T4	Element 3736 3742	carbon
+T5	Element 6382 6388	helium
+T6	Target 2840 2848	Rocknest
+T7	Target 2855 2865	John Klein
+T8	Target 2872 2882	Cumberland
+T9	Target 6188 6196	Rocknest
+T10	Mineral 4267 4282	phyllosilicates
+T11	Mineral 4305 4311	quartz
+T12	Mineral 5683 5689	quartz

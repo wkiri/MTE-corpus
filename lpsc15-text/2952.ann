@@ -1,11 +1,6 @@
 T1	Element 3255 3263	aluminum
 T2	Element 3508 3509	C
-T3	Element 3528 3529	C
-T4	Element 5739 5747	aluminum
-T5	Target 8977 8985	McKinnon
-T6	Target 9098 9102	Bull
-T7	Mineral 317 326	satellite
-T8	Mineral 364 373	satellite
-T9	Mineral 1766 1774	opposite
-T10	Mineral 2926 2935	satellite
-T11	Mineral 5156 5165	satellite
+T3	Element 3527 3528	C
+T4	Element 5734 5742	aluminum
+T5	Target 8967 8975	McKinnon
+T6	Target 9088 9092	Bull

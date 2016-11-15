@@ -12,11 +12,11 @@ T11	Element 6862 6863	S
 T12	Element 6865 6866	K
 T13	Element 6989 6995	sulfur
 T14	Element 7527 7533	sulfur
-T15	Element 9033 9034	C
-T16	Element 9098 9099	C
-T17	Element 9167 9168	C
-T18	Element 9185 9186	C
-T19	Element 9191 9192	B
+T15	Element 9032 9033	C
+T16	Element 9097 9098	C
+T17	Element 9166 9167	C
+T18	Element 9184 9185	C
+T19	Element 9190 9191	B
 T20	Target 7896 7900	Ross
 T21	Mineral 2617 2627	pyrrhotite
 T22	Mineral 4739 4747	jarosite
@@ -28,8 +28,8 @@ T27	Mineral 6194 6202	jarosite
 T28	Mineral 6641 6651	pyrrhotite
 T29	Mineral 6969 6979	pyrrhotite
 T30	Mineral 7118 7128	pyrrhotite
-T31	Mineral 8664 8672	Jarosite
-T32	Mineral 8737 8748	whitlockite
+T31	Mineral 8663 8671	Jarosite
+T32	Mineral 8736 8747	whitlockite
 T33	Mineral 683 699	igneous minerals
 T34	Mineral 708 715	olivine
 T35	Mineral 717 725	pyroxene
@@ -44,4 +44,4 @@ T43	Mineral 4193 4204	plagioclase
 T44	Mineral 4726 4737	plagioclase
 T45	Mineral 5393 5404	plagioclase
 T46	Mineral 5673 5684	plagioclase
-T47	Mineral 8585 8596	Plagioclase
+T47	Mineral 8584 8595	Plagioclase
