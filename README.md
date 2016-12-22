@@ -14,9 +14,8 @@ have not been human reviewed:
 
 These directories contain annotations after human review:
   
-  `lpsc14-text-reviewed-target`: target annotations manually corrected
-   
-
+* `lpsc14-text-reviewed-target`: target annotations manually corrected
+ 
 Note: To align spans with extracted text, be sure to treat the text as
 UTF-8.  For example, in Python, use
 
