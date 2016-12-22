@@ -23,22 +23,44 @@ T22	Element 7641 7643	Ni
 T23	Element 7645 7647	Zn
 T24	Element 7767 7768	K
 T25	Element 8039 8041	Zn
-T28	Target 3683 3687	Jake
+T28	Target 3682 3689	(Jake M
 T31	Target 4195 4206	Pine_Plains
 T33	Target 4662 4671	Rocknest3
-T34	Target 4694 4702	Rocknest
-T37	Target 4957 4961	Jake
-T38	Target 5107 5115	Rocknest
 T42	Target 5456 5467	Bell Island
 T43	Target 5594 5605	Snake River
-T45	Target 6166 6174	Sheepbed
-T48	Target 6534 6542	Sheepbed
 T49	Target 6695 6705	John Klein
 T51	Target 7046 7050	Maya
 T52	Target 7129 7139	John Klein
-T53	Target 7165 7169	Jake
-T54	Target 7358 7362	Jake
+T54	Target 7358 7364	Jake M
 T55	Target 7366 7374	Bathurst
 T56	Target 7380 7390	John Klein
 T57	Mineral 3853 3862	mugearite
 T58	Mineral 6763 6772	bassanite
+T26	Target 3703 3710	Matthew
+T27	Target 4145 4159	Bathurst_Inlet
+T29	Target 4211 4221	Rensselear
+T30	Target 4239 4253	Bathurst_Inlet
+T32	Target 4739 4751	Dismal Lakes
+T34	Target 7085 7090	Yukon
+T35	Target 7182 7191	ohn Klein
+T36	Target 7165 7171	Jake M
+T37	Target 3602 3616	Jake Matijevic
+T38	Target 3618 3624	Jake M
+T39	Target 3961 3967	Jake M
+T40	Target 4082 4096	Bathurst Inlet
+T41	Target 4611 4620	Rocknest3
+T44	Target 4769 4779	Point Lake
+T45	Target 4868 4874	Jake M
+T46	Target 4879 4887	Bathurst
+T47	Target 4958 4963	ake M
+T48	Target 4972 4980	Bathurst
+T50	Target 5039 5046	Et Then
+T53	Target 5370 5379	Rocknest3
+T59	Target 5419 5430	Bell Island
+T60	Target 5396 5407	Bell Island
+T61	Target 6113 6123	John Klein
+T62	Target 6506 6516	John Klein
+T63	Target 6484 6489	Mavor
+T64	Target 6534 6542	Sheepbed
+T65	Target 6782 6787	Mavor
+T66	Target 6947 6952	Yukon

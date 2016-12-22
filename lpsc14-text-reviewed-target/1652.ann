@@ -35,10 +35,6 @@ T34	Element 4904 4905	K
 T35	Element 4907 4908	P
 T36	Element 4914 4916	Cl
 T37	Element 5307 5309	Rh
-T39	Target 1145 1155	Cumberland
-T40	Target 1355 1365	Cumberland
-T41	Target 1751 1761	Cumberland
-T42	Target 2974 2984	Cumberland
 T43	Target 6278 6286	Palomino
 T44	Target 6824 6832	Palomino
 T45	Mineral 2518 2526	ilmenite
@@ -59,3 +55,56 @@ T59	Mineral 4661 4670	carbonate
 T60	Mineral 5029 5038	carbonate
 T61	Mineral 5092 5101	carbonate
 T62	Mineral 5111 5118	olivine
+T38	Target 1561 1570	Wishstone
+T40	Target 6264 6273	Horseback
+T39	Target 6362 6371	Horseback
+T41	Target 6856 6865	Horseback
+T42	Target 6799 6807	Keystone
+T63	Target 6772 6777	Paros
+T64	Target 1779 1789	Methuselah
+T65	Target 1791 1799	Jibsheet
+T66	Target 1805 1820	Larry's Lookout
+T67	Target 2186 2195	Wishstone
+T68	Target 1493 1502	Wishstone
+T69	Target 1429 1439	Watchtower
+T70	Target 707 717	Watchtower
+T71	Target 732 740	Comanche
+T72	Target 1116 1126	Watchtower
+T73	Target 1210 1218	Comanche
+T74	Target 2015 2025	Watchtower
+T75	Target 2298 2308	Adirondack
+T76	Target 2409 2419	Watchtower
+T77	Target 2493 2503	Watchtower
+T78	Target 2947 2962	Larry's Lookout
+T79	Target 3232 3242	Watchtower
+T80	Target 3411 3426	Larry's Lookout
+T81	Target 3496 3506	Methuselah
+T82	Target 3761 3776	Larry's Lookout
+T83	Target 4093 4101	Comanche
+T84	Target 4106 4119	Comanche Spur
+T85	Target 4245 4258	Comanche Spur
+T86	Target 4474 4482	Comanche
+T87	Target 4487 4500	Comanche Spur
+T88	Target 4589 4597	Comanche
+T89	Target 4866 4876	Adirondack
+T90	Target 4885 4893	Comanche
+T91	Target 4943 4961	Innocent Bystander
+T92	Target 4991 4999	Comanche
+T93	Target 5362 5370	Comanche
+T94	Target 5375 5388	Comanche Spur
+T95	Target 5800 5810	Watchtower
+T96	Target 5821 5829	Comanche
+T97	Target 5984 5994	Methuselah
+T98	Target 5952 5962	Watchtower
+T99	Target 6056 6071	Larry's Lookout
+T100	Target 6135 6150	Larry's Lookout
+T101	Target 6185 6195	Watchtower
+T102	Target 6242 6255	Comanche Spur
+T103	Target 6399 6407	Comanche
+T104	Target 6533 6543	Watchtower
+T105	Target 6561 6569	Comanche
+T106	Target 6628 6638	Watchtower
+T107	Target 6809 6819	Methuselah
+T108	Target 6779 6794	Larry's Lookout
+T109	Target 6834 6847	Comanche Spur
+T110	Target 6867 6880	Comanche Spur

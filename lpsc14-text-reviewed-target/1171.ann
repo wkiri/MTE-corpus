@@ -34,8 +34,7 @@ T33	Target 2579 2587	Bathurst
 T34	Target 3261 3265	Link
 T35	Target 3868 3876	Bathurst
 T36	Target 3887 3896	Kasegalik
-T37	Target 4122 4130	Sheepbed
-T38	Target 4300 4304	Jake
+T38	Target 4300 4314	Jake Matijevic
 T39	Target 4365 4369	Jake
 T40	Target 5057 5061	Jake
 T41	Target 5197 5201	Link
@@ -54,3 +53,4 @@ T53	Target 8214 8218	Jake
 T54	Mineral 4569 4575	albite
 T55	Mineral 4577 4586	anorthite
 T56	Mineral 4639 4647	pyroxene
+T57	Target 3270 3276	Hottah
