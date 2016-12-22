@@ -14,7 +14,13 @@ T13	Target 4530 4540	Cumberland
 T14	Target 5566 5576	John Klein
 T15	Target 5586 5596	Cumberland
 T16	Target 7185 7193	Rocknest
-T17	Target 7538 7546	Sheepbed
 T18	Mineral 7371 7379	smectite
 T19	Mineral 7797 7805	smectite
 T20	Mineral 2849 2855	quartz
+T21	Target 5578 5580	JK
+T22	Target 5598 5600	CB
+T23	Target 7147 7149	JK
+T24	Target 7154 7156	CB
+T25	Target 7298 7300	CB
+T26	Target 7291 7293	JK
+T17	Target 7538 7546	Sheepbed

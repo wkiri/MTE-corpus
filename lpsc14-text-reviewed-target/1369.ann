@@ -32,7 +32,7 @@ T32	Target 4395 4405	Chakonipau
 T33	Target 5080 5088	Rocknest
 T34	Target 5773 5783	Robin Hood
 T35	Target 5999 6009	Coronation
-T36	Target 6281 6285	Jake
+T36	Target 6281 6295	Jake Matijevic
 T37	Target 6585 6590	Stark
 T38	Target 6649 6659	Chakonipau
 T39	Target 7213 7221	Rocknest
@@ -52,3 +52,9 @@ T53	Mineral 7407 7417	orthoclase
 T54	Mineral 7512 7521	feldspars
 T55	Mineral 7944 7952	feldspar
 T56	Mineral 8518 8526	feldspar
+T40	Target 4062 4073	Black-Trout
+T57	Target 4075 4085	Tête Jaune
+T58	Target 4097 4106	Ashuamipi
+T59	Target 4165 4177	Mallard-Lake
+T60	Target 4154 4164	Coronation
+T61	Target 6637 6644	Angmmat

@@ -25,10 +25,6 @@ T24	Element 6849 6850	C
 T25	Element 6921 6922	F
 T26	Element 6969 6970	H
 T27	Element 7308 7309	H
-T28	Target 498 506	Sheepbed
-T29	Target 4474 4482	Sheepbed
-T30	Target 5985 5993	Sheepbed
-T31	Target 6059 6067	Sheepbed
 T33	Mineral 602 610	smectite
 T34	Mineral 1004 1012	smectite
 T35	Mineral 1633 1641	smectite
@@ -40,3 +36,7 @@ T40	Mineral 4483 4491	saponite
 T41	Mineral 6068 6076	saponite
 T42	Mineral 6094 6102	smectite
 T43	Mineral 299 314	Phyllosilicates
+T28	Target 498 506	Sheepbed
+T29	Target 4474 4482	Sheepbed
+T30	Target 5985 5993	Sheepbed
+T31	Target 6059 6067	Sheepbed
