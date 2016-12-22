@@ -33,13 +33,13 @@ T32	Element 7676 7682	oxygen
 T33	Element 7889 7895	carbon
 T34	Element 7940 7946	carbon
 T35	Element 8250 8251	K
-T36	Target 457 465	Sheepbed
 T37	Target 813 823	Cumberland
 T38	Target 880 890	John Klein
-T39	Target 5052 5060	Sheepbed
 T40	Target 5151 5159	Rocknest
+T43	Target 5669 5677	Rocknest
+T46	Mineral 1004 1013	carbonate
+T36	Target 457 465	Sheepbed
+T39	Target 5052 5060	Sheepbed
 T41	Target 5271 5279	Sheepbed
 T42	Target 5647 5655	Sheepbed
-T43	Target 5669 5677	Rocknest
 T44	Target 7792 7800	Sheepbed
-T46	Mineral 1004 1013	carbonate
