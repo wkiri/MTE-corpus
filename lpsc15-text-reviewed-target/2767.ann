@@ -1,0 +1,55 @@
+T1	Element 5392 5394	Li
+T2	Element 5538 5540	Cl
+T3	Element 5542 5544	Sr
+T4	Element 5549 5551	Cr
+T5	Element 5580 5582	Cl
+T6	Element 5587 5589	Sr
+T7	Element 5615 5616	H
+T8	Element 5725 5726	H
+T9	Element 5839 5841	Ca
+T10	Element 5887 5889	Cl
+T11	Element 5894 5895	H
+T12	Element 5981 5983	Cl
+T13	Element 6162 6164	Cl
+T14	Element 6169 6170	H
+T15	Element 6197 6199	Ca
+T16	Element 6302 6304	Ca
+T17	Element 6309 6311	Cl
+T18	Element 6324 6326	Ca
+T19	Element 6378 6380	Cl
+T20	Element 6413 6417	lead
+T21	Element 6529 6531	Ca
+T22	Element 6533 6535	Cl
+T23	Element 6540 6541	H
+T24	Element 6677 6679	Cl
+T25	Element 6684 6685	H
+T26	Element 6722 6729	calcium
+T27	Element 7056 7057	H
+T28	Element 7803 7804	B
+T29	Target 1940 1948	Rocknest
+T30	Target 1995 2003	Rocknest
+T31	Target 3374 3382	Rocknest
+T32	Target 4542 4550	Rocknest
+T33	Target 5358 5366	Rocknest
+T34	Target 5444 5452	Rocknest
+T35	Target 6783 6799	Confidence Hills
+T36	Target 6869 6877	Rocknest
+T37	Target 6971 6979	Rocknest
+T38	Target 1953 1962	Dingo Gap
+T39	Target 2106 2115	Dingo Gap
+T40	Target 4528 4537	Dingo Gap
+T41	Target 4644 4657	Hidden Valley
+T42	Target 4662 4669	Pahrump
+T43	Target 3463 3470	Pahrump
+T44	Target 3445 3458	Hidden Valley
+T45	Target 5499 5506	Pahrump
+T46	Target 5481 5494	Hidden Valley
+T47	Target 5553 5566	Hidden Valley
+T48	Target 5602 5609	Pahrump
+T49	Target 5642 5655	Hidden Valley
+T50	Target 5687 5694	Pahrump
+T51	Target 5730 5743	Hidden Valley
+T52	Target 5789 5796	Pahrump
+T53	Target 5954 5967	Hidden Valley
+T54	Target 6080 6087	Pahrump
+T55	Target 6811 6818	Pahrump
