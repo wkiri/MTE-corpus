@@ -21,12 +21,17 @@
 import sys, os, io
 import re
 import tika
-
+tika.TikaClientOnly = True
 from tika import parser
+from progressbar import ProgressBar, ETA, Bar, Percentage
 
 # Local files
-pdfdir  = '../../git/text/lpsc16-pdfs'
-textdir = '../lpsc16-text'
+pdfdir  = '../../pdfs/lpsc14-pdfs'
+textdir = '../lpsc14-text'
+#pdfdir  = '../../pdfs/lpsc15-pdfs'
+#textdir = '../lpsc15-text'
+#pdfdir  = '../../pdfs/lpsc16-pdfs'
+#textdir = '../lpsc16-text'
 
 dirlist = [fn for fn in os.listdir(pdfdir) if
            fn.endswith('.pdf')]
@@ -38,12 +43,22 @@ print '  Writing output text files to %s.' % textdir
 if not os.path.exists(textdir):
     os.mkdir(textdir)
 
-for fn in dirlist:
-    print fn
+widgets = ['Files (of %d): ' % len(dirlist), Percentage(), ' ', Bar('='), ' ', ETA()]
+pbar = ProgressBar(widgets=widgets, maxval=len(dirlist)).start()
+    
+for (i, fn) in enumerate(dirlist):
+    pbar.update(i)
+    #if int(fn.split('.')[0]) != 1001:
+    #    continue
+    #print fn
     parsed = parser.from_file(pdfdir + '/' + fn)
 
-    if parsed['content'] == None:
-        print 'Tika found no content in %s.' % fn
+    try:
+        if parsed['content'] == None:
+            print 'Tika found no content in %s.' % fn
+            continue
+    except:
+        print 'Tika could not parse %s.' % fn
         continue
 
     with io.open(textdir + '/' + fn[0:-4] + '.txt', 'w', encoding='utf8') as outf:
@@ -62,6 +77,9 @@ for fn in dirlist:
 #                 0x00B9:0x31, 0x00B2:0x32, 0x00B3:0x33, # exponents
         cleaned = cleaned.translate(punc)
 
+        # Replace newlines that separate words with a space (unless hyphen)
+        cleaned = re.sub(r'([^\s-])[\r|\n]+([^\s])','\\1 \\2', cleaned)
+
         # Remove hyphenation at the end of lines 
         # (this is sometimes bad, as with "Fe-\nrich")
         cleaned = cleaned.replace('-\n','\n')
@@ -69,13 +87,16 @@ for fn in dirlist:
         # Remove all newlines
         cleaned = re.sub(r'[\r|\n]+','', cleaned)
 
-        # Stick newlines back in after xxxx.PDF and xxxx.pdf
-        cleaned = re.sub(r'([0-9][0-9][0-9][0-9].PDF)', '\\1\n', cleaned,
+        # Strip out xxxx.PDF and xxxx.pdf
+        cleaned = re.sub(r'([0-9][0-9][0-9][0-9].PDF)', '', cleaned,
                          flags=re.IGNORECASE)
         # And "Lunar and Planetary Science Conference (201x)"
-        cleaned = re.sub(r'(Lunar and Planetary Science Conference \(201[0-9]\))', 
-                         '\\1\n', cleaned,
+        cleaned = re.sub(r'([0-9][0-9].. Lunar and Planetary Science Conference \(201[0-9]\))', 
+                         '', cleaned,
                          flags=re.IGNORECASE)
+
+        # Remove mailto: links
+        cleaned = re.sub(r'mailto:[^\s]+','', cleaned)
 
         outf.write(cleaned)
         outf.close()
